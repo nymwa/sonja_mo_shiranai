@@ -1,0 +1,3013 @@
+# 1	mi open lon nimi sewi .
+1	mi	代名詞	主語開始	0
+2	open	動詞	主述	1
+3	lon	前置詞	前置詞句付加	2
+4	nimi	名詞	斜格語	3
+5	sewi	名詞	付加	4
+6	.	約物	文末記号	5
+
+# 2	sina pu a !
+1	sina	代名詞	主語開始	0
+2	pu	動詞	主述	1
+3	a	感動詞	付加感動	2
+4	!	約物	文末記号	3
+
+# 3	toki pona li tan seme ? tenpo pini la mi wile sona e kon ale kepeken nimi lili .
+1	toki	名詞	主語開始	0
+2	pona	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	tan	前置詞	主述	3
+5	seme	代名詞	斜格語	4
+6	?	約物	文末記号	5
+7	tenpo	名詞	文脈開始	6
+8	pini	形容詞	付加	7
+9	la	助詞	文脈分離	7
+10	mi	代名詞	主語開始	9
+11	wile	助動詞	主述	10
+12	sona	動詞	補完	11
+13	e	助詞	VO分離	12
+14	kon	名詞	目的語	13
+15	ale	形容詞	付加	14
+16	kepeken	前置詞	前置詞句付加	12
+17	nimi	名詞	斜格語	16
+18	lili	形容詞	付加	17
+19	.	約物	文末記号	18
+
+# 4	mi lukin e kon mi . mi kama sona e toki mute . mi musi . mi pali e nasin toki lili . ona li pona e toki insa mi .
+1	mi	代名詞	主語開始	0
+2	lukin	動詞	主述	1
+3	e	助詞	VO分離	2
+4	kon	名詞	目的語	3
+5	mi	代名詞	付加	4
+6	.	約物	文末記号	5
+7	mi	代名詞	主語開始	6
+8	kama	助動詞	主述	7
+9	sona	動詞	補完	8
+10	e	助詞	VO分離	9
+11	toki	名詞	目的語	10
+12	mute	形容詞	付加	11
+13	.	約物	文末記号	12
+14	mi	代名詞	主語開始	13
+15	musi	動詞	主述	14
+16	.	約物	文末記号	15
+17	mi	代名詞	主語開始	16
+18	pali	動詞	主述	17
+19	e	助詞	VO分離	18
+20	nasin	名詞	目的語	19
+21	toki	形容詞	付加	20
+22	lili	形容詞	付加	20
+23	.	約物	文末記号	22
+24	ona	代名詞	主語開始	23
+25	li	助詞	SV分離(直説法)	24
+26	pona	動詞	主述	25
+27	e	助詞	VO分離	26
+28	toki	名詞	目的語	27
+29	insa	形容詞	付加	28
+30	mi	代名詞	付加	28
+31	.	約物	文末記号	30
+
+# 5	mi pana e toki lili mi tawa jan ale lon ilo lipu lon tenpo pini . kulupu lili li kama . ona li olin e toki pona .
+1	mi	代名詞	主語開始	0
+2	pana	動詞	主述	1
+3	e	助詞	VO分離	2
+4	toki	名詞	目的語	3
+5	lili	形容詞	付加	4
+6	mi	代名詞	付加	4
+7	tawa	前置詞	前置詞句付加	2
+8	jan	名詞	斜格語	7
+9	ale	形容詞	付加	8
+10	lon	前置詞	前置詞句付加	2
+11	ilo	名詞	斜格語	10
+12	lipu	名詞	付加	11
+13	lon	前置詞	前置詞句付加	2
+14	tenpo	名詞	斜格語	13
+15	pini	形容詞	付加	14
+16	.	約物	文末記号	15
+17	kulupu	名詞	主語開始	16
+18	lili	形容詞	付加	17
+19	li	助詞	SV分離(直説法)	18
+20	kama	動詞	主述	19
+21	.	約物	文末記号	20
+22	ona	代名詞	主語開始	21
+23	li	助詞	SV分離(直説法)	22
+24	olin	動詞	主述	23
+25	e	助詞	VO分離	24
+26	toki	名詞	目的語	25
+27	pona	形容詞	付加	26
+28	.	約物	文末記号	27
+
+# 6	pu la mi wile pana e selo pini pi toki pona . nasin ni la mi kepeken toki pona .
+1	pu	名詞	文脈開始	0
+2	la	助詞	文脈分離	1
+3	mi	代名詞	主語開始	2
+4	wile	助動詞	主述	3
+5	pana	動詞	補完	4
+6	e	助詞	VO分離	5
+7	selo	名詞	目的語	6
+8	pini	形容詞	付加	7
+9	pi	助詞	句分離	7
+10	toki	名詞	付加	9
+11	pona	形容詞	付加	10
+12	.	約物	文末記号	11
+13	nasin	名詞	文脈開始	12
+14	ni	限定詞	付加	13
+15	la	助詞	文脈分離	13
+16	mi	代名詞	主語開始	15
+17	kepeken	前置詞	主述	16
+18	toki	名詞	斜格語	17
+19	pona	形容詞	付加	18
+20	.	約物	文末記号	19
+
+# 7	ijo li ijo .
+1	ijo	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	ijo	名詞	主述	2
+4	.	約物	文末記号	3
+
+# 8	ni li jan .
+1	ni	限定詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	jan	名詞	主述	2
+4	.	約物	文末記号	3
+
+# 9	ni li kili .
+1	ni	限定詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	kili	名詞	主述	2
+4	.	約物	文末記号	3
+
+# 10	lipu li ijo .
+1	lipu	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	ijo	名詞	主述	2
+4	.	約物	文末記号	3
+
+# 11	jan li meli .
+1	jan	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	meli	名詞	主述	2
+4	.	約物	文末記号	3
+
+# 12	soweli li ijo .
+1	soweli	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	ijo	名詞	主述	2
+4	.	約物	文末記号	3
+
+# 13	meli li jan .
+1	meli	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	jan	名詞	主述	2
+4	.	約物	文末記号	3
+
+# 14	ijo li pona .
+1	ijo	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	pona	形容詞	主述	2
+4	.	約物	文末記号	3
+
+# 15	telo li pona .
+1	telo	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	pona	形容詞	主述	2
+4	.	約物	文末記号	3
+
+# 16	telo kili li suli .
+1	telo	名詞	主語開始	0
+2	kili	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	suli	形容詞	主述	3
+5	.	約物	文末記号	4
+
+# 17	meli li lili .
+1	meli	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	lili	形容詞	主述	2
+4	.	約物	文末記号	3
+
+# 18	soweli lili li pona .
+1	soweli	名詞	主語開始	0
+2	lili	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	pona	形容詞	主述	3
+5	.	約物	文末記号	4
+
+# 19	jan ni li suli .
+1	jan	名詞	主語開始	0
+2	ni	限定詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	suli	形容詞	主述	3
+5	.	約物	文末記号	4
+
+# 20	mi mije .
+1	mi	代名詞	主語開始	0
+2	mije	名詞	主述	1
+3	.	約物	文末記号	2
+
+# 21	sina sin .
+1	sina	代名詞	主語開始	0
+2	sin	形容詞	主述	1
+3	.	約物	文末記号	2
+
+# 22	tomo sina li sin .
+1	tomo	名詞	主語開始	0
+2	sina	代名詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	sin	形容詞	主述	3
+5	.	約物	文末記号	4
+
+# 23	mije li jan pona .
+1	mije	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	jan	名詞	主述	2
+4	pona	形容詞	付加	3
+5	.	約物	文末記号	4
+
+# 24	tomo soweli li lili .
+1	tomo	名詞	主語開始	0
+2	soweli	名詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	lili	形容詞	主述	3
+5	.	約物	文末記号	4
+
+# 25	sina mije wawa .
+1	sina	代名詞	主語開始	0
+2	mije	名詞	主述	1
+3	wawa	形容詞	付加	2
+4	.	約物	文末記号	3
+
+# 26	kulupu sin li wawa .
+1	kulupu	名詞	主語開始	0
+2	sin	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	wawa	形容詞	主述	3
+5	.	約物	文末記号	4
+
+# 27	ni li lipu sina .
+1	ni	限定詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	lipu	名詞	主述	2
+4	sina	代名詞	付加	3
+5	.	約物	文末記号	4
+
+# 28	ijo li pali e ijo .
+1	ijo	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	pali	動詞	主述	2
+4	e	助詞	VO分離	3
+5	ijo	名詞	目的語	4
+6	.	約物	文末記号	5
+
+# 29	mi moku e telo .
+1	mi	代名詞	主語開始	0
+2	moku	動詞	主述	1
+3	e	助詞	VO分離	2
+4	telo	名詞	目的語	3
+5	.	約物	文末記号	4
+
+# 30	mije li sona .
+1	mije	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	sona	動詞	主述	2
+4	.	約物	文末記号	3
+
+# 31	mije li sona e ijo .
+1	mije	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	sona	動詞	主述	2
+4	e	助詞	VO分離	3
+5	ijo	名詞	目的語	4
+6	.	約物	文末記号	5
+
+# 32	mi sona e toki pona .
+1	mi	代名詞	主語開始	0
+2	sona	動詞	主述	1
+3	e	助詞	VO分離	2
+4	toki	名詞	目的語	3
+5	pona	形容詞	付加	4
+6	.	約物	文末記号	5
+
+# 33	mije ni li jan toki .
+1	mije	名詞	主語開始	0
+2	ni	限定詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	jan	名詞	主述	3
+5	toki	形容詞	付加	4
+6	.	約物	文末記号	5
+
+# 34	soweli suli li moku e sina .
+1	soweli	名詞	主語開始	0
+2	suli	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	moku	動詞	主述	3
+5	e	助詞	VO分離	4
+6	sina	代名詞	目的語	5
+7	.	約物	文末記号	6
+
+# 35	lipu kulupu li wawa .
+1	lipu	名詞	主語開始	0
+2	kulupu	名詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	wawa	形容詞	主述	3
+5	.	約物	文末記号	4
+
+# 36	sina pali e moku sin .
+1	sina	代名詞	主語開始	0
+2	pali	動詞	主述	1
+3	e	助詞	VO分離	2
+4	moku	名詞	目的語	3
+5	sin	形容詞	付加	4
+6	.	約物	文末記号	5
+
+# 37	jan sona li kute .
+1	jan	名詞	主語開始	0
+2	sona	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	kute	動詞	主述	3
+5	.	約物	文末記号	4
+
+# 38	tomo sona li jo e lipu .
+1	tomo	名詞	主語開始	0
+2	sona	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	jo	動詞	主述	3
+5	e	助詞	VO分離	4
+6	lipu	名詞	目的語	5
+7	.	約物	文末記号	6
+
+# 39	mi moku ala e soweli .
+1	mi	代名詞	主語開始	0
+2	moku	動詞	主述	1
+3	ala	副詞	付加	2
+4	e	助詞	VO分離	2
+5	soweli	名詞	目的語	4
+6	.	約物	文末記号	5
+
+# 40	mi toki pona e ijo .
+1	mi	代名詞	主語開始	0
+2	toki	動詞	主述	1
+3	pona	副詞	付加	2
+4	e	助詞	VO分離	2
+5	ijo	名詞	目的語	4
+6	.	約物	文末記号	5
+
+# 41	pali sina li pona mute .
+1	pali	名詞	主語開始	0
+2	sina	代名詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	pona	形容詞	主述	3
+5	mute	副詞	付加	4
+6	.	約物	文末記号	5
+
+# 42	telo li wawa e mi .
+1	telo	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	wawa	動詞	主述	2
+4	e	助詞	VO分離	3
+5	mi	代名詞	目的語	4
+6	.	約物	文末記号	5
+
+# 43	jan sona li pu .
+1	jan	名詞	主語開始	0
+2	sona	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	pu	動詞	主述	3
+5	.	約物	文末記号	4
+
+# 44	meli lili li kute ike e mama .
+1	meli	名詞	主語開始	0
+2	lili	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	kute	動詞	主述	3
+5	ike	副詞	付加	4
+6	e	助詞	VO分離	4
+7	mama	名詞	目的語	6
+8	.	約物	文末記号	7
+
+# 45	sewi li wan .
+1	sewi	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	wan	数詞	主述	2
+4	.	約物	文末記号	3
+
+# 46	jan ala li ike .
+1	jan	名詞	主語開始	0
+2	ala	数詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	ike	形容詞	主述	3
+5	.	約物	文末記号	4
+
+# 47	mama mije li pu mute .
+1	mama	名詞	主語開始	0
+2	mije	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	pu	動詞	主述	3
+5	mute	副詞	付加	4
+6	.	約物	文末記号	5
+
+# 48	seme li sin ?
+1	seme	代名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	sin	形容詞	主述	2
+4	?	約物	文末記号	3
+
+# 49	jan seme li toki ?
+1	jan	名詞	主語開始	0
+2	seme	代名詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	toki	動詞	主述	3
+5	?	約物	文末記号	4
+
+# 50	sina pu anu seme ?
+1	sina	代名詞	主語開始	0
+2	pu	動詞	主述	1
+3	anu	接続詞	等位(左)	2
+4	seme	代名詞	等位(右)	3
+5	?	約物	文末記号	4
+
+# 51	" ona li mama ala mama ? " " mama . "
+1	"	約物	文頭記号	0
+2	ona	代名詞	主語開始	1
+3	li	助詞	SV分離(直説法)	2
+4	mama	名詞	主述	3
+5	ala	助詞	等位(左)	4
+6	mama	名詞	等位(右)	5
+7	?	約物	文末記号	6
+8	"	約物	文末記号	7
+9	"	約物	文頭記号	8
+10	mama	名詞	述語開始	9
+11	.	約物	文末記号	10
+12	"	約物	文末記号	11
+
+# 52	" ona li mama ala mama ? " " mama ala . "
+1	"	約物	文頭記号	0
+2	ona	代名詞	主語開始	1
+3	li	助詞	SV分離(直説法)	2
+4	mama	名詞	主述	3
+5	ala	助詞	等位(左)	4
+6	mama	名詞	等位(右)	5
+7	?	約物	文末記号	6
+8	"	約物	文末記号	7
+9	"	約物	文頭記号	8
+10	mama	名詞	述語開始	9
+11	ala	形容詞	付加	10
+12	.	約物	文末記号	11
+13	"	約物	文末記号	12
+
+# 53	" ona li mama ala mama ? " " ala . "
+1	"	約物	文頭記号	0
+2	ona	代名詞	主語開始	1
+3	li	助詞	SV分離(直説法)	2
+4	mama	名詞	主述	3
+5	ala	助詞	等位(左)	4
+6	mama	名詞	等位(右)	5
+7	?	約物	文末記号	6
+8	"	約物	文末記号	7
+9	"	約物	文頭記号	8
+10	ala	形容詞	述語開始	9
+11	.	約物	文末記号	10
+12	"	約物	文末記号	11
+
+# 54	" ona li jo ala jo e kili mute ? " " jo . "
+1	"	約物	文頭記号	0
+2	ona	代名詞	主語開始	1
+3	li	助詞	SV分離(直説法)	2
+4	jo	動詞	主述	3
+5	ala	助詞	等位(左)	4
+6	jo	動詞	等位(右)	5
+7	e	助詞	VO分離	6
+8	kili	名詞	目的語	7
+9	mute	形容詞	付加	8
+10	?	約物	文末記号	9
+11	"	約物	文末記号	10
+12	"	約物	文頭記号	11
+13	jo	動詞	述語開始	12
+14	.	約物	文末記号	13
+15	"	約物	文末記号	14
+
+# 55	mije sona li jo e kala anu seme ?
+1	mije	名詞	主語開始	0
+2	sona	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	jo	動詞	主述	3
+5	e	助詞	VO分離	4
+6	kala	名詞	目的語	5
+7	anu	接続詞	等位(左)	6
+8	seme	代名詞	等位(右)	7
+9	?	約物	文末記号	8
+
+# 56	sina seme e ona ?
+1	sina	代名詞	主語開始	0
+2	seme	動詞	主述	1
+3	e	助詞	VO分離	2
+4	ona	代名詞	目的語	3
+5	?	約物	文末記号	4
+
+# 57	tomo li jo e ilo toki .
+1	tomo	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	jo	動詞	主述	2
+4	e	助詞	VO分離	3
+5	ilo	名詞	目的語	4
+6	toki	形容詞	付加	5
+7	.	約物	文末記号	6
+
+# 58	sina kute ala kute e mama sina ?
+1	sina	代名詞	主語開始	0
+2	kute	動詞	主述	1
+3	ala	助詞	等位(左)	2
+4	kute	動詞	等位(右)	3
+5	e	助詞	VO分離	4
+6	mama	名詞	目的語	5
+7	sina	代名詞	付加	6
+8	?	約物	文末記号	6
+
+# 59	kala wawa li moku e seme ?
+1	kala	名詞	主語開始	0
+2	wawa	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	moku	動詞	主述	3
+5	e	助詞	VO分離	4
+6	seme	代名詞	目的語	5
+7	?	約物	文末記号	6
+
+# 60	mi pana e kala tawa ona .
+1	mi	代名詞	主語開始	0
+2	pana	動詞	述語開始	1
+3	e	助詞	VO分離	2
+4	kala	名詞	目的語	3
+5	tawa	前置詞	前置詞句付加	2
+6	ona	代名詞	斜格語	5
+7	.	約物	文末記号	6
+
+# 61	mi pana e kala lon tomo .
+1	mi	代名詞	主語開始	0
+2	pana	動詞	主述	1
+3	e	助詞	VO分離	2
+4	kala	名詞	目的語	3
+5	lon	前置詞	前置詞句付加	2
+6	tomo	名詞	斜格語	5
+7	.	約物	文末記号	6
+
+# 62	mi pana e kala tawa ona lon tomo .
+1	mi	代名詞	主語開始	0
+2	pana	動詞	主述	1
+3	e	助詞	VO分離	2
+4	kala	名詞	目的語	3
+5	tawa	前置詞	前置詞句付加	2
+6	ona	代名詞	斜格語	5
+7	lon	前置詞	前置詞句付加	2
+8	tomo	名詞	斜格語	7
+9	.	約物	文末記号	8
+
+# 63	mi lon tomo .
+1	mi	代名詞	主語開始	0
+2	lon	前置詞	主述	1
+3	tomo	名詞	斜格語	2
+4	.	約物	文末記号	3
+
+# 64	mi tawa sina .
+1	mi	代名詞	主語開始	0
+2	tawa	前置詞	主述	1
+3	sina	代名詞	斜格語	2
+4	.	約物	文末記号	3
+
+# 65	mama mi li tawa telo suli .
+1	mama	名詞	主語開始	0
+2	mi	代名詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	tawa	前置詞	述語開始	3
+5	telo	名詞	斜格語	4
+6	suli	形容詞	付加	5
+7	.	約物	文末記号	6
+
+# 66	mi pali mute tan ni .
+1	mi	代名詞	主語開始	0
+2	pali	動詞	主述	1
+3	mute	副詞	付加	2
+4	tan	前置詞	前置詞句付加	2
+5	ni	限定詞	斜格語	4
+6	.	約物	文末記号	5
+
+# 67	mi toki lon toki pona .
+1	mi	代名詞	主語開始	0
+2	toki	動詞	主述	1
+3	lon	前置詞	前置詞句付加	2
+4	toki	名詞	斜格語	3
+5	pona	形容詞	付加	4
+6	.	約物	文末記号	5
+
+# 68	soweli lili li pona tawa mi .
+1	soweli	名詞	主語開始	0
+2	lili	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	pona	形容詞	主述	3
+5	tawa	前置詞	前置詞句付加	4
+6	mi	代名詞	斜格語	5
+7	.	約物	文末記号	6
+
+# 69	kulupu pali li kepeken seme ?
+1	kulupu	名詞	主語開始	0
+2	pali	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	kepeken	前置詞	主述	3
+5	seme	代名詞	斜格語	4
+6	?	約物	文末記号	5
+
+# 70	mi sona e toki mute tan meli ni .
+1	mi	代名詞	主語開始	0
+2	sona	動詞	主述	1
+3	e	助詞	VO分離	2
+4	toki	名詞	目的語	3
+5	mute	形容詞	付加	4
+6	tan	前置詞	前置詞句付加	2
+7	meli	名詞	斜格語	6
+8	ni	限定詞	付加	7
+9	.	約物	文末記号	8
+
+# 71	mije sin li lon tomo telo anu seme ?
+1	mije	名詞	主語開始	0
+2	sin	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	lon	前置詞	主述	3
+5	tomo	名詞	斜格語	4
+6	telo	形容詞	付加	5
+7	anu	接続詞	等位(左)	5
+8	seme	代名詞	等位(右)	7
+9	?	約物	文末記号	8
+
+# 72	nimi mi li Apu .
+1	nimi	名詞	主語開始	0
+2	mi	代名詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	Apu	固有名詞	主述	3
+5	.	約物	文末記号	4
+
+# 73	ma Apika li jo e jan mute .
+1	ma	名詞	主語開始	0
+2	Apika	固有名詞	同格	1
+3	li	助詞	SV分離(直説法)	1
+4	jo	動詞	主述	3
+5	e	助詞	VO分離	4
+6	jan	名詞	目的語	5
+7	mute	形容詞	付加	6
+8	.	約物	文末記号	7
+
+# 74	meli Sonko li tawa nasin Kuwin .
+1	meli	名詞	主語開始	0
+2	Sonko	固有名詞	同格	1
+3	li	助詞	SV分離(直説法)	1
+4	tawa	前置詞	主述	3
+5	nasin	名詞	斜格語	4
+6	Kuwin	固有名詞	同格	5
+7	.	約物	文末記号	6
+
+# 75	jan Epawan Linkan li tan ma Mewika .
+1	jan	名詞	主語開始	0
+2	Epawan	固有名詞	同格	1
+3	Linkan	固有名詞	同格	2
+4	li	助詞	SV分離(直説法)	1
+5	tan	前置詞	主述	4
+6	ma	名詞	斜格語	5
+7	Mewika	固有名詞	同格	6
+8	.	約物	文末記号	7
+
+# 76	ma tomo Pelin li lon ma Tosi .
+1	ma	名詞	主語開始	0
+2	tomo	形容詞	付加	1
+3	Pelin	固有名詞	同格	1
+4	li	助詞	SV分離(直説法)	1
+5	lon	前置詞	主述	4
+6	ma	名詞	斜格語	5
+7	Tosi	固有名詞	同格	6
+8	.	約物	文末記号	7
+
+# 77	sina sona ala sona e toki Inli ?
+1	sina	代名詞	主語開始	0
+2	sona	動詞	主述	1
+3	ala	助詞	等位(左)	2
+4	sona	動詞	等位(右)	3
+5	e	助詞	VO分離	4
+6	toki	名詞	目的語	5
+7	Inli	固有名詞	同格	6
+8	?	約物	文末記号	7
+
+# 78	nena sewi Kepelitepe li lon ma Tuki .
+1	nena	名詞	主語開始	0
+2	sewi	形容詞	付加	1
+3	Kepelitepe	固有名詞	同格	1
+4	li	助詞	SV分離(直説法)	1
+5	lon	前置詞	主述	4
+6	ma	名詞	斜格語	5
+7	Tuki	固有名詞	同格	6
+8	.	約物	文末記号	7
+
+# 79	toki !
+1	toki	感動詞	自立感動	0
+2	!	約物	文末記号	1
+
+# 80	pona tawa sina !
+1	pona	形容詞	述語開始	0
+2	tawa	前置詞	前置詞句付加	1
+3	sina	代名詞	斜格語	2
+4	!	約物	文末記号	3
+
+# 81	kama pona !
+1	kama	動詞	述語開始	0
+2	pona	副詞	付加	1
+3	!	約物	文末記号	2
+
+# 82	seme li sin ?
+1	seme	代名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	sin	形容詞	主述	2
+4	?	約物	文末記号	3
+
+# 83	mi tawa .
+1	mi	代名詞	主語開始	0
+2	tawa	動詞	主述	1
+3	.	約物	文末記号	2
+
+# 84	tawa pona .
+1	tawa	動詞	述語開始	0
+2	pona	副詞	付加	1
+3	.	約物	文末記号	2
+
+# 85	o toki ala . o pali .
+1	o	助詞	命令	0
+2	toki	動詞	述語開始	1
+3	ala	副詞	付加	2
+4	.	約物	文末記号	3
+5	o	助詞	命令	4
+6	pali	動詞	述語開始	5
+7	.	約物	文末記号	6
+
+# 86	jan Mosima o , ni li soweli sina anu seme ?
+1	jan	名詞	呼格開始	0
+2	Mosima	固有名詞	同格	1
+3	o	助詞	呼格終了	1
+4	,	約物	文中記号	3
+5	ni	限定詞	主語開始	3
+6	li	助詞	SV分離(直説法)	5
+7	soweli	名詞	主述	6
+8	sina	代名詞	付加	7
+9	anu	接続詞	等位(左)	7
+10	seme	代名詞	等位(右)	9
+11	?	約物	文末記号	10
+
+# 87	o moku ala e kili mi .
+1	o	助詞	命令	0
+2	moku	動詞	述語開始	1
+3	ala	副詞	付加	2
+4	e	助詞	VO分離	3
+5	kili	名詞	目的語	4
+6	mi	代名詞	付加	5
+7	.	約物	文末記号	6
+
+# 88	sina pilin ike tan seme ?
+1	sina	代名詞	主語開始	0
+2	pilin	動詞	主述	1
+3	ike	副詞	付加	2
+4	tan	前置詞	前置詞句付加	2
+5	seme	代名詞	斜格語	4
+6	?	約物	文末記号	5
+
+# 89	sewi o pana e pona tawa mi .
+1	sewi	名詞	主語開始	0
+2	o	助詞	SV分離(命令法)	1
+3	pana	動詞	主述	2
+4	e	助詞	VO分離	3
+5	pona	名詞	目的語	4
+6	tawa	前置詞	前置詞句付加	3
+7	mi	代名詞	斜格語	6
+8	.	約物	文末記号	7
+
+# 90	o kute e mama sina .
+1	o	助詞	命令	0
+2	kute	動詞	主述	1
+3	e	助詞	VO分離	2
+4	mama	名詞	目的語	3
+5	sina	代名詞	付加	4
+6	.	約物	文末記号	5
+
+# 91	sina suli a !
+1	sina	代名詞	主語開始	0
+2	suli	動詞	主述	1
+3	a	感動詞	付加感動	2
+4	!	約物	文末記号	3
+
+# 92	pona !
+1	pona	感動詞	自立感動	0
+2	!	約物	文末記号	1
+
+# 93	mi o moku e ijo pona .
+1	mi	代名詞	主語開始	0
+2	o	助詞	SV分離(命令法)	1
+3	moku	動詞	主述	2
+4	e	助詞	VO分離	3
+5	ijo	名詞	目的語	4
+6	pona	形容詞	付加	5
+7	.	約物	文末記号	6
+
+# 94	tenpo suno ni li pona mute tawa mi .
+1	tenpo	名詞	主語開始	0
+2	suno	形容詞	付加	1
+3	ni	限定詞	付加	1
+4	li	助詞	SV分離(直説法)	1
+5	pona	形容詞	主述	4
+6	mute	副詞	付加	5
+7	tawa	前置詞	前置詞句付加	5
+8	mi	代名詞	斜格語	7
+9	.	約物	文末記号	8
+
+# 95	meli lili pi sijelo pona li telo e kasi .
+1	meli	名詞	主語開始	0
+2	lili	形容詞	付加	1
+3	pi	助詞	句分離	1
+4	sijelo	名詞	付加	3
+5	pona	形容詞	付加	4
+6	li	助詞	SV分離(直説法)	1
+7	telo	動詞	主述	6
+8	e	助詞	VO分離	7
+9	kasi	名詞	目的語	8
+10	.	約物	文末記号	9
+
+# 96	mije pi pilin pona li pali e ilo tenpo suno .
+1	mije	名詞	主語開始	0
+2	pi	助詞	句分離	1
+3	pilin	名詞	付加	2
+4	pona	形容詞	付加	3
+5	li	助詞	SV分離(直説法)	1
+6	pali	動詞	主述	5
+7	e	助詞	VO分離	6
+8	ilo	名詞	目的語	7
+9	tenpo	形容詞	付加	8
+10	suno	形容詞	付加	8
+11	.	約物	文末記号	10
+
+# 97	mama mama mi li lili .
+1	mama	名詞	主語開始	0
+2	mama	名詞	付加	1
+3	mi	代名詞	付加	1
+4	li	助詞	SV分離(直説法)	1
+5	lili	形容詞	主述	4
+6	.	約物	文末記号	5
+
+# 98	sina mute li jo ala jo e tomo tawa ?
+1	sina	代名詞	主語開始	0
+2	mute	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	jo	動詞	主述	3
+5	ala	助詞	等位(左)	4
+6	jo	動詞	等位(右)	5
+7	e	助詞	VO分離	6
+8	tomo	名詞	目的語	7
+9	tawa	形容詞	付加	8
+10	?	約物	文末記号	9
+
+# 99	o awen lon tenpo pi suli mute .
+1	o	助詞	命令	0
+2	awen	動詞	述語開始	1
+3	lon	前置詞	前置詞句付加	2
+4	tenpo	名詞	斜格語	3
+5	pi	助詞	句分離	4
+6	suli	形容詞	付加	5
+7	mute	副詞	付加	6
+8	.	約物	文末記号	7
+
+# 100	jan sona pi toki pona li pu lon tenpo mute .
+1	jan	名詞	主語開始	0
+2	sona	形容詞	付加	1
+3	pi	助詞	句分離	1
+4	toki	名詞	付加	3
+5	pona	形容詞	付加	4
+6	li	助詞	SV分離(直説法)	1
+7	pu	動詞	主述	6
+8	lon	前置詞	前置詞句付加	7
+9	tenpo	名詞	斜格語	8
+10	mute	形容詞	付加	9
+11	.	約物	文末記号	10
+
+# 101	ma tomo li kama suli .
+1	ma	名詞	主語開始	0
+2	tomo	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	kama	助動詞	主述	3
+5	suli	形容詞	補完	4
+6	.	約物	文末記号	5
+
+# 102	mi kama sona e toki pona .
+1	mi	代名詞	主語開始	0
+2	kama	助動詞	主述	1
+3	sona	動詞	補完	2
+4	e	助詞	VO分離	3
+5	toki	名詞	目的語	4
+6	pona	形容詞	付加	5
+7	.	約物	文末記号	6
+
+# 103	mije wawa li lukin jo e meli pona .
+1	mije	名詞	主語開始	0
+2	wawa	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	lukin	助動詞	主述	3
+5	jo	動詞	補完	4
+6	e	助詞	VO分離	5
+7	meli	名詞	目的語	6
+8	pona	形容詞	付加	7
+9	.	約物	文末記号	8
+
+# 104	mi mute li kama awen lon ma tomo Towano .
+1	mi	代名詞	主語開始	0
+2	mute	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	kama	助動詞	主述	3
+5	awen	動詞	補完	4
+6	lon	前置詞	前置詞句付加	5
+7	ma	名詞	斜格語	6
+8	tomo	形容詞	付加	7
+9	Towano	固有名詞	同格	7
+10	.	約物	文末記号	9
+
+# 105	jan lili mi o , sina wile moku e kala anu seme ?
+1	jan	名詞	呼格開始	0
+2	lili	形容詞	付加	1
+3	mi	代名詞	付加	1
+4	o	助詞	呼格終了	1
+5	,	約物	文中記号	4
+6	sina	代名詞	主語開始	4
+7	wile	助動詞	主述	6
+8	moku	動詞	補完	7
+9	e	助詞	VO分離	8
+10	kala	名詞	目的語	9
+11	anu	接続詞	等位(左)	10
+12	seme	代名詞	等位(右)	11
+13	?	約物	文末記号	12
+
+# 106	jan mute li sona ala tawa lon telo .
+1	jan	名詞	主語開始	0
+2	mute	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	sona	助動詞	主述	3
+5	ala	副詞	付加	4
+6	tawa	動詞	補完	4
+7	lon	前置詞	前置詞句付加	6
+8	telo	名詞	斜格語	7
+9	.	約物	文末記号	8
+
+# 107	sina ken ala ken kama ?
+1	sina	代名詞	主語開始	0
+2	ken	助動詞	主述	1
+3	ala	助詞	等位(左)	2
+4	ken	助動詞	等位(右)	3
+5	kama	動詞	補完	4
+6	?	約物	文末記号	5
+
+# 108	ona li kama lon tenpo pimeja ni .
+1	ona	代名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	kama	動詞	主述	2
+4	lon	前置詞	前置詞句付加	3
+5	tenpo	名詞	斜格語	4
+6	pimeja	形容詞	付加	5
+7	ni	限定詞	付加	5
+8	.	約物	文末記号	7
+
+# 109	tenpo pimeja ni la ona li kama .
+1	tenpo	名詞	文脈開始	0
+2	pimeja	形容詞	付加	1
+3	ni	限定詞	付加	1
+4	la	助詞	文脈分離	1
+5	ona	代名詞	主語開始	4
+6	li	助詞	SV分離(直説法)	5
+7	kama	動詞	主述	6
+8	.	約物	文末記号	7
+
+# 110	mi pona tawa jan , la jan li pona tawa mi .
+1	mi	代名詞	文脈開始	0
+2	pona	形容詞	主述	1
+3	tawa	前置詞	前置詞句付加	2
+4	jan	名詞	斜格語	3
+5	,	約物	文中記号	4
+6	la	助詞	文脈分離	1
+7	jan	名詞	主語開始	6
+8	li	助詞	SV分離(直説法)	7
+9	pona	形容詞	主述	8
+10	tawa	前置詞	前置詞句付加	9
+11	mi	代名詞	斜格語	10
+12	.	約物	文末記号	11
+
+# 111	sina kama lon tomo mi , la mi pana e moku .
+1	sina	代名詞	文脈開始	0
+2	kama	助動詞	主述	1
+3	lon	前置詞	補完	2
+4	tomo	名詞	斜格語	3
+5	mi	代名詞	付加	4
+6	,	約物	文中記号	5
+7	la	助詞	文脈分離	1
+8	mi	代名詞	主語開始	7
+9	pana	動詞	主述	8
+10	e	助詞	VO分離	9
+11	moku	名詞	目的語	10
+12	.	約物	文末記号	11
+
+# 112	sina lukin e telo jelo , la o moku ala e ona .
+1	sina	代名詞	文脈開始	0
+2	lukin	動詞	主述	1
+3	e	助詞	VO分離	2
+4	telo	名詞	目的語	3
+5	jelo	形容詞	付加	4
+6	,	約物	文中記号	5
+7	la	助詞	文脈分離	1
+8	o	助詞	命令	7
+9	moku	動詞	述語開始	8
+10	ala	副詞	付加	9
+11	e	助詞	VO分離	9
+12	ona	代名詞	目的語	11
+13	.	約物	文末記号	12
+
+# 113	ilo pi laso pimeja li lon tomo walo .
+1	ilo	名詞	主語開始	0
+2	pi	助詞	句分離	1
+3	laso	形容詞	付加	2
+4	pimeja	形容詞	色合成	3
+5	li	助詞	SV分離(直説法)	1
+6	lon	前置詞	述語開始	5
+7	tomo	名詞	斜格語	6
+8	walo	形容詞	付加	7
+9	.	約物	文末記号	8
+
+# 114	suno li loje , la tenpo pona li lon .
+1	suno	名詞	文脈開始	0
+2	li	助詞	SV分離(直説法)	1
+3	loje	形容詞	主述	2
+4	,	約物	文中記号	3
+5	la	助詞	文脈分離	1
+6	tenpo	名詞	主語開始	5
+7	pona	形容詞	付加	6
+8	li	助詞	SV分離(直説法)	6
+9	lon	動詞	主述	8
+10	.	約物	文末記号	9
+
+# 115	tan seme la soweli wawa pimeja li moku e ona ?
+1	tan	前置詞	文脈開始	0
+2	seme	代名詞	斜格語	1
+3	la	助詞	文脈分離	2
+4	soweli	名詞	主語開始	3
+5	wawa	形容詞	付加	4
+6	pimeja	形容詞	付加	4
+7	li	助詞	SV分離(直説法)	4
+8	moku	動詞	主述	7
+9	e	助詞	VO分離	8
+10	ona	代名詞	目的語	9
+11	?	約物	文末記号	10
+
+# 116	sewi li wile , la mi pali e ona lon tenpo suno kama .
+1	sewi	名詞	文脈開始	0
+2	li	助詞	SV分離(直説法)	1
+3	wile	動詞	主述	2
+4	,	約物	文中記号	3
+5	la	助詞	文脈分離	1
+6	mi	代名詞	主語開始	5
+7	pali	動詞	主述	6
+8	e	助詞	VO分離	7
+9	ona	代名詞	目的語	8
+10	lon	前置詞	前置詞句付加	7
+11	tenpo	名詞	斜格語	10
+12	suno	形容詞	付加	11
+13	kama	形容詞	付加	11
+14	.	約物	文末記号	13
+
+# 117	mi lon poka sina .
+1	mi	代名詞	主語開始	0
+2	lon	前置詞	主述	1
+3	poka	名詞	斜格語	2
+4	sina	代名詞	付加	3
+5	.	約物	文末記号	4
+
+# 118	noka tomo li wawa .
+1	noka	名詞	主語開始	0
+2	tomo	名詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	wawa	形容詞	主述	3
+5	.	約物	文末記号	4
+
+# 119	jan lili li lon insa pi mama meli .
+1	jan	名詞	主語開始	0
+2	lili	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	lon	前置詞	主述	3
+5	insa	名詞	斜格語	4
+6	pi	助詞	句分離	5
+7	mama	名詞	付加	6
+8	meli	形容詞	付加	7
+9	.	約物	文末記号	8
+
+# 120	ilo suli li tawa lon sewi .
+1	ilo	名詞	主語開始	0
+2	suli	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	tawa	動詞	主述	3
+5	lon	前置詞	前置詞句付加	4
+6	sewi	名詞	斜格語	5
+7	.	約物	文末記号	6
+
+# 121	kala laso mute li lon noka pi telo suli .
+1	kala	名詞	主語開始	0
+2	laso	形容詞	付加	1
+3	mute	形容詞	付加	1
+4	li	助詞	SV分離(直説法)	1
+5	lon	前置詞	主述	4
+6	noka	名詞	斜格語	5
+7	pi	助詞	句分離	6
+8	telo	名詞	付加	7
+9	suli	形容詞	付加	8
+10	.	約物	文末記号	9
+
+# 122	tomo sona ni la jan lili li wile kepeken toki Inli .
+1	tomo	名詞	文脈開始	0
+2	sona	形容詞	付加	1
+3	ni	限定詞	付加	1
+4	la	助詞	文脈分離	1
+5	jan	名詞	主語開始	4
+6	lili	形容詞	付加	5
+7	li	助詞	SV分離(直説法)	5
+8	wile	助動詞	主述	7
+9	kepeken	前置詞	補完	8
+10	toki	名詞	斜格語	9
+11	Inli	固有名詞	同格	10
+12	.	約物	文末記号	11
+
+# 123	suwi li pona tawa mi .
+1	suwi	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	pona	形容詞	主述	2
+4	tawa	前置詞	前置詞句付加	3
+5	mi	代名詞	斜格語	4
+6	.	約物	文末記号	5
+
+# 124	sina en mi li anpa tawa sewi .
+1	sina	代名詞	主語開始	0
+2	en	接続詞	等位(左)	1
+3	mi	代名詞	等位(右)	2
+4	li	助詞	SV分離(直説法)	3
+5	anpa	形容詞	主述	4
+6	tawa	前置詞	前置詞句付加	5
+7	sewi	名詞	斜格語	6
+8	.	約物	文末記号	7
+
+# 125	ma mama li lili li lete .
+1	ma	名詞	主語開始	0
+2	mama	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	lili	形容詞	主述	3
+5	li	助詞	SV分離(直説法)	1
+6	lete	形容詞	主述	5
+7	.	約物	文末記号	6
+
+# 126	taso mije en meli li pali li pilin pona .
+1	taso	接続詞	等位	0
+2	mije	名詞	主語開始	1
+3	en	接続詞	等位(左)	2
+4	meli	名詞	等位(右)	3
+5	li	助詞	SV分離(直説法)	4
+6	pali	動詞	主述	5
+7	li	助詞	SV分離(直説法)	4
+8	pilin	動詞	主述	7
+9	pona	副詞	付加	8
+10	.	約物	文末記号	9
+
+# 127	meli sama mi li open e lupa nanpa wan e lupa nanpa tu .
+1	meli	名詞	主語開始	0
+2	sama	形容詞	付加	1
+3	mi	代名詞	付加	1
+4	li	助詞	SV分離(直説法)	1
+5	open	動詞	主述	4
+6	e	助詞	VO分離	5
+7	lupa	名詞	目的語	6
+8	nanpa	助詞	序数分離	7
+9	wan	数詞	序数	8
+10	e	助詞	VO分離	5
+11	lupa	名詞	目的語	10
+12	nanpa	助詞	序数分離	11
+13	tu	数詞	序数	12
+14	.	約物	文末記号	13
+
+# 128	tomo sina taso li pimeja .
+1	tomo	名詞	主語開始	0
+2	sina	代名詞	付加	1
+3	taso	形容詞	付加	1
+4	li	助詞	SV分離(直説法)	1
+5	pimeja	形容詞	主述	4
+6	.	約物	文末記号	5
+
+# 129	mi wile e ni : jan Melani li kama tawa tomo mi .
+1	mi	代名詞	主語開始	0
+2	wile	動詞	主述	1
+3	e	助詞	VO分離	2
+4	ni	限定詞	目的語	3
+5	:	約物	文末記号	4
+6	jan	名詞	主語開始	5
+7	Melani	固有名詞	同格	6
+8	li	助詞	SV分離(直説法)	7
+9	kama	動詞	主述	8
+10	tawa	前置詞	前置詞句付加	9
+11	tomo	名詞	斜格語	10
+12	mi	代名詞	付加	11
+13	.	約物	文末記号	12
+
+# 130	mama sama Mawijo li jo e tomo lili lon ma kasi . ona li wile alasa li kama jo e ilo alasa e len loje . tenpo suno nanpa wan la ona li lukin e waso laso taso . waso li moku e pipi lili .
+1	mama	名詞	主語開始	0
+2	sama	形容詞	付加	1
+3	Mawijo	固有名詞	同格	1
+4	li	助詞	SV分離(直説法)	1
+5	jo	動詞	主述	4
+6	e	助詞	VO分離	5
+7	tomo	名詞	目的語	6
+8	lili	形容詞	付加	7
+9	lon	前置詞	前置詞句付加	5
+10	ma	名詞	斜格語	9
+11	kasi	名詞	付加	10
+12	.	約物	文末記号	11
+13	ona	代名詞	主語開始	12
+14	li	助詞	SV分離(直説法)	13
+15	wile	助動詞	主述	14
+16	alasa	動詞	補完	15
+17	li	助詞	SV分離(直説法)	13
+18	kama	助動詞	主述	17
+19	jo	動詞	補完	18
+20	e	助詞	VO分離	19
+21	ilo	名詞	目的語	20
+22	alasa	形容詞	付加	21
+23	e	助詞	VO分離	19
+24	len	名詞	目的語	23
+25	loje	形容詞	付加	24
+26	.	約物	文末記号	25
+27	tenpo	名詞	文脈開始	26
+28	suno	形容詞	付加	27
+29	nanpa	助詞	序数分離	27
+30	wan	数詞	序数	29
+31	la	助詞	文脈分離	27
+32	ona	代名詞	主語開始	31
+33	li	助詞	SV分離(直説法)	32
+34	lukin	動詞	主述	33
+35	e	助詞	VO分離	34
+36	waso	名詞	目的語	35
+37	laso	形容詞	付加	36
+38	taso	形容詞	付加	36
+39	.	約物	文末記号	38
+40	waso	名詞	主語開始	39
+41	li	助詞	SV分離(直説法)	40
+42	moku	動詞	主述	41
+43	e	助詞	VO分離	42
+44	pipi	名詞	目的語	43
+45	lili	形容詞	付加	44
+46	.	約物	文末記号	45
+
+# 131	tenpo suno nanpa tu la ona li kute e mu wawa . jan Mawijo li awen . ona li lukin e soweli suli . lawa soweli li jo e palisa . jan Mawijo li kepeken ilo alasa , taso linja li pakala . soweli suli li tawa weka .
+1	tenpo	名詞	文脈開始	0
+2	suno	形容詞	付加	1
+3	nanpa	助詞	序数分離	1
+4	tu	数詞	序数	3
+5	la	助詞	文脈分離	1
+6	ona	代名詞	主語開始	5
+7	li	助詞	SV分離(直説法)	6
+8	kute	動詞	主述	7
+9	e	助詞	VO分離	8
+10	mu	名詞	目的語	9
+11	wawa	形容詞	付加	10
+12	.	約物	文末記号	11
+13	jan	名詞	主語開始	12
+14	Mawijo	固有名詞	同格	13
+15	li	助詞	SV分離(直説法)	13
+16	awen	動詞	主述	15
+17	.	約物	文末記号	16
+18	ona	代名詞	主語開始	17
+19	li	助詞	SV分離(直説法)	18
+20	lukin	動詞	主述	19
+21	e	助詞	VO分離	20
+22	soweli	名詞	目的語	21
+23	suli	形容詞	付加	22
+24	.	約物	文末記号	23
+25	lawa	名詞	主語開始	24
+26	soweli	名詞	付加	25
+27	li	助詞	SV分離(直説法)	25
+28	jo	動詞	主述	27
+29	e	助詞	VO分離	28
+30	palisa	名詞	目的語	29
+31	.	約物	文末記号	30
+32	jan	名詞	主語開始	31
+33	Mawijo	固有名詞	同格	32
+34	li	助詞	SV分離(直説法)	32
+35	kepeken	前置詞	主述	34
+36	ilo	名詞	斜格語	35
+37	alasa	形容詞	付加	36
+38	,	約物	文中記号	37
+39	taso	接続詞	等位(左)	32
+40	linja	名詞	等位(右)	39
+41	li	助詞	SV分離(直説法)	40
+42	pakala	形容詞	主述	41
+43	.	約物	文末記号	42
+44	soweli	名詞	主語開始	43
+45	suli	形容詞	付加	44
+46	li	助詞	SV分離(直説法)	44
+47	tawa	動詞	主述	46
+48	weka	副詞	付加	47
+49	.	約物	文末記号	48
+
+# 132	jan Mawijo li jo e meli olin . nimi ona li Sili . jan Sili li lape lili lon supa . tenpo suno pini la jan Sili li pona e tomo , li telo e len . jan Mawijo li kama lon tenpo seme ?
+1	jan	名詞	主語開始	0
+2	Mawijo	固有名詞	同格	1
+3	li	助詞	SV分離(直説法)	1
+4	jo	動詞	主述	3
+5	e	助詞	VO分離	4
+6	meli	名詞	目的語	5
+7	olin	形容詞	付加	6
+8	.	約物	文末記号	7
+9	nimi	名詞	主語開始	8
+10	ona	代名詞	付加	9
+11	li	助詞	SV分離(直説法)	9
+12	Sili	固有名詞	主述	11
+13	.	約物	文末記号	12
+14	jan	名詞	主語開始	13
+15	Sili	固有名詞	同格	14
+16	li	助詞	SV分離(直説法)	14
+17	lape	動詞	主述	16
+18	lili	副詞	付加	17
+19	lon	前置詞	前置詞句付加	17
+20	supa	名詞	斜格語	19
+21	.	約物	文末記号	20
+22	tenpo	名詞	文脈開始	21
+23	suno	形容詞	付加	22
+24	pini	形容詞	付加	22
+25	la	助詞	文脈分離	22
+26	jan	名詞	主語開始	25
+27	Sili	固有名詞	同格	26
+28	li	助詞	SV分離(直説法)	26
+29	pona	動詞	主述	28
+30	e	助詞	VO分離	29
+31	tomo	名詞	目的語	30
+32	,	約物	文中記号	31
+33	li	助詞	SV分離(直説法)	26
+34	telo	動詞	主述	33
+35	e	助詞	VO分離	34
+36	len	名詞	目的語	35
+37	.	約物	文末記号	36
+38	jan	名詞	主語開始	37
+39	Mawijo	固有名詞	同格	38
+40	li	助詞	SV分離(直説法)	38
+41	kama	動詞	主述	40
+42	lon	前置詞	前置詞句付加	41
+43	tenpo	名詞	斜格語	42
+44	seme	代名詞	付加	43
+45	?	約物	文末記号	44
+
+# 133	kalama a ! tenpo ni la jan Mawijo li kama lon lupa , li jo e soweli lili tu . jan Sili li pilin pona , li uta e jan Mawijo . ona li seli e soweli e pan . moku pona !
+1	kalama	名詞	述語開始	0
+2	a	感動詞	付加感動	1
+3	!	約物	文末記号	2
+4	tenpo	名詞	文脈開始	3
+5	ni	限定詞	付加	4
+6	la	助詞	文脈分離	4
+7	jan	名詞	主語開始	6
+8	Mawijo	固有名詞	同格	7
+9	li	助詞	SV分離(直説法)	7
+10	kama	動詞	主述	9
+11	lon	前置詞	前置詞句付加	10
+12	lupa	名詞	斜格語	11
+13	,	約物	文中記号	12
+14	li	助詞	SV分離(直説法)	7
+15	jo	動詞	主述	14
+16	e	助詞	VO分離	15
+17	soweli	名詞	目的語	16
+18	lili	形容詞	付加	17
+19	tu	数詞	付加	17
+20	.	約物	文末記号	19
+21	jan	名詞	主語開始	20
+22	Sili	固有名詞	同格	21
+23	li	助詞	SV分離(直説法)	21
+24	pilin	動詞	主述	23
+25	pona	副詞	付加	24
+26	,	約物	文中記号	25
+27	li	助詞	SV分離(直説法)	21
+28	uta	動詞	主述	27
+29	e	助詞	VO分離	28
+30	jan	名詞	目的語	29
+31	Mawijo	固有名詞	同格	30
+32	.	約物	文末記号	31
+33	ona	代名詞	主語開始	32
+34	li	助詞	SV分離(直説法)	33
+35	seli	動詞	主述	34
+36	e	助詞	VO分離	35
+37	soweli	名詞	目的語	36
+38	e	助詞	VO分離	35
+39	pan	名詞	目的語	38
+40	.	約物	文末記号	39
+41	moku	動詞	述語開始	40
+42	pona	副詞	付加	41
+43	!	約物	文末記号	42
+
+# 134	ni li lipu .
+1	ni	限定詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	lipu	名詞	主述	2
+4	.	約物	文末記号	3
+
+# 135	jan li ijo .
+1	jan	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	ijo	名詞	主述	2
+4	.	約物	文末記号	3
+
+# 136	soweli li meli .
+1	soweli	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	meli	名詞	主述	2
+4	.	約物	文末記号	3
+
+# 137	kili li ijo .
+1	kili	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	ijo	名詞	主述	2
+4	.	約物	文末記号	3
+
+# 138	soweli meli li pona .
+1	soweli	名詞	主語開始	0
+2	meli	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	pona	形容詞	主述	3
+5	.	約物	文末記号	4
+
+# 139	ni li jan pona .
+1	ni	限定詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	jan	名詞	主述	2
+4	pona	形容詞	付加	3
+5	.	約物	文末記号	4
+
+# 140	tomo telo li lili .
+1	tomo	名詞	主語開始	0
+2	telo	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	lili	形容詞	主述	3
+5	.	約物	文末記号	4
+
+# 141	ni li soweli lili .
+1	ni	限定詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	soweli	名詞	主述	2
+4	lili	形容詞	付加	3
+5	.	約物	文末記号	4
+
+# 142	jan lili li meli .
+1	jan	名詞	主語開始	0
+2	lili	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	meli	名詞	主述	3
+5	.	約物	文末記号	4
+
+# 143	lipu suli li pona .
+1	lipu	名詞	主語開始	0
+2	suli	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	pona	形容詞	主述	3
+5	.	約物	文末記号	4
+
+# 144	kili li kili telo .
+1	kili	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	kili	名詞	主述	2
+4	telo	形容詞	付加	3
+5	.	約物	文末記号	4
+
+# 145	sina wawa .
+1	sina	代名詞	主語開始	0
+2	wawa	形容詞	主述	1
+3	.	約物	文末記号	2
+
+# 146	ni li kili mi .
+1	ni	限定詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	kili	名詞	主述	2
+4	mi	代名詞	付加	3
+5	.	約物	文末記号	4
+
+# 147	telo sin li ijo pona .
+1	telo	名詞	主語開始	0
+2	sin	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	ijo	名詞	主述	3
+5	pona	形容詞	付加	4
+6	.	約物	文末記号	5
+
+# 148	tomo lipu li sin .
+1	tomo	名詞	主語開始	0
+2	lipu	名詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	sin	形容詞	主述	3
+5	.	約物	文末記号	4
+
+# 149	kulupu mi li suli .
+1	kulupu	名詞	主語開始	0
+2	mi	代名詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	suli	形容詞	主述	3
+5	.	約物	文末記号	4
+
+# 150	mije mi li wawa .
+1	mije	名詞	主語開始	0
+2	mi	代名詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	wawa	形容詞	主述	3
+5	.	約物	文末記号	4
+
+# 151	sina meli suli .
+1	sina	代名詞	主語開始	0
+2	meli	名詞	主述	1
+3	suli	形容詞	付加	2
+4	.	約物	文末記号	3
+
+# 152	mi kute e sina .
+1	mi	代名詞	主語開始	0
+2	kute	動詞	主述	1
+3	e	助詞	VO分離	2
+4	sina	代名詞	目的語	3
+5	.	約物	文末記号	4
+
+# 153	kili li jo e telo .
+1	kili	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	jo	動詞	主述	2
+4	e	助詞	VO分離	3
+5	telo	名詞	目的語	4
+6	.	約物	文末記号	5
+
+# 154	kulupu li pali e tomo moku .
+1	kulupu	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	pali	動詞	主述	2
+4	e	助詞	VO分離	3
+5	tomo	名詞	目的語	4
+6	moku	形容詞	付加	5
+7	.	約物	文末記号	6
+
+# 155	jan pali li jo e sona lili .
+1	jan	名詞	主語開始	0
+2	pali	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	jo	動詞	主述	3
+5	e	助詞	VO分離	4
+6	sona	名詞	目的語	5
+7	lili	形容詞	付加	6
+8	.	約物	文末記号	7
+
+# 156	jan pona li moku e soweli .
+1	jan	名詞	主語開始	0
+2	pona	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	moku	動詞	主述	3
+5	e	助詞	VO分離	4
+6	soweli	名詞	目的語	5
+7	.	約物	文末記号	6
+
+# 157	meli li kute e mije .
+1	meli	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	kute	動詞	主述	2
+4	e	助詞	VO分離	3
+5	mije	名詞	目的語	4
+6	.	約物	文末記号	5
+
+# 158	kulupu lili li jo e toki sin .
+1	kulupu	名詞	主語開始	0
+2	lili	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	jo	動詞	主述	3
+5	e	助詞	VO分離	4
+6	toki	名詞	目的語	5
+7	sin	形容詞	付加	6
+8	.	約物	文末記号	7
+
+# 159	wan li pona .
+1	wan	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	pona	形容詞	主述	2
+4	.	約物	文末記号	3
+
+# 160	mi kute e telo suli .
+1	mi	代名詞	主語開始	0
+2	kute	動詞	主述	1
+3	e	助詞	VO分離	2
+4	telo	名詞	目的語	3
+5	suli	形容詞	付加	4
+6	.	約物	文末記号	5
+
+# 161	mi sona lili e toki pona .
+1	mi	代名詞	主語開始	0
+2	sona	動詞	主述	1
+3	lili	副詞	付加	2
+4	e	助詞	VO分離	2
+5	toki	名詞	目的語	4
+6	pona	形容詞	付加	5
+7	.	約物	文末記号	6
+
+# 162	lipu sewi li jo e sona .
+1	lipu	名詞	主語開始	0
+2	sewi	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	jo	動詞	主述	3
+5	e	助詞	VO分離	4
+6	sona	名詞	目的語	5
+7	.	約物	文末記号	6
+
+# 163	kulupu suli li wan .
+1	kulupu	名詞	主語開始	0
+2	suli	形容詞	述語開始	1
+3	li	助詞	SV分離(直説法)	1
+4	wan	形容詞	主述	3
+5	.	約物	文末記号	4
+
+# 164	mije li moku ala e kili ike .
+1	mije	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	moku	動詞	主述	2
+4	ala	副詞	付加	3
+5	e	助詞	VO分離	3
+6	kili	名詞	目的語	5
+7	ike	形容詞	付加	6
+8	.	約物	文末記号	7
+
+# 165	moku li suli e mi .
+1	moku	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	suli	動詞	主述	2
+4	e	助詞	VO分離	3
+5	mi	代名詞	目的語	4
+6	.	約物	文末記号	5
+
+# 166	sina jo e ilo seme ?
+1	sina	代名詞	主語開始	0
+2	jo	動詞	主述	1
+3	e	助詞	VO分離	2
+4	ilo	名詞	目的語	3
+5	seme	代名詞	付加	4
+6	?	約物	文末記号	5
+
+# 167	ona li kute ala kute ?
+1	ona	代名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	kute	動詞	主述	2
+4	ala	助詞	等位(左)	3
+5	kute	動詞	等位(右)	4
+6	?	約物	文末記号	5
+
+# 168	ona li kute anu seme ?
+1	ona	代名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	kute	動詞	主述	2
+4	anu	接続詞	等位(左)	3
+5	seme	代名詞	等位(右)	4
+6	?	約物	文末記号	5
+
+# 169	kulupu wan li pu ala pu ?
+1	kulupu	名詞	主語開始	0
+2	wan	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	pu	動詞	主述	3
+5	ala	助詞	等位(左)	4
+6	pu	動詞	等位(右)	5
+7	?	約物	文末記号	6
+
+# 170	kulupu wan li pu anu seme ?
+1	kulupu	名詞	主語開始	0
+2	wan	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	pu	動詞	主述	3
+5	anu	接続詞	等位(左)	4
+6	seme	代名詞	等位(右)	5
+7	?	約物	文末記号	6
+
+# 171	mi pali e seme ?
+1	mi	代名詞	主語開始	0
+2	pali	動詞	主述	1
+3	e	助詞	VO分離	2
+4	seme	代名詞	目的語	3
+5	?	約物	文末記号	4
+
+# 172	mi mute li pali e seme ?
+1	mi	代名詞	主語開始	0
+2	mute	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	pali	動詞	主述	3
+5	e	助詞	VO分離	4
+6	seme	代名詞	目的語	5
+7	?	約物	文末記号	6
+
+# 173	kala li moku ala moku e telo ?
+1	kala	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	moku	動詞	主述	2
+4	ala	助詞	等位(左)	3
+5	moku	動詞	等位(右)	4
+6	e	助詞	VO分離	5
+7	telo	名詞	目的語	6
+8	?	約物	文末記号	7
+
+# 174	kala li moku e telo anu seme ?
+1	kala	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	moku	動詞	主述	2
+4	e	助詞	VO分離	3
+5	telo	名詞	目的語	4
+6	anu	接続詞	等位(左)	5
+7	seme	代名詞	等位(右)	6
+8	?	約物	文末記号	7
+
+# 175	ilo moku li lili ala lili ?
+1	ilo	名詞	主語開始	0
+2	moku	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	lili	形容詞	主述	3
+5	ala	助詞	等位(左)	4
+6	lili	形容詞	等位(右)	5
+7	?	約物	文末記号	6
+
+# 176	ilo moku li lili anu seme ?
+1	ilo	名詞	主語開始	0
+2	moku	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	lili	形容詞	主述	3
+5	anu	接続詞	等位(左)	4
+6	seme	代名詞	等位(右)	5
+7	?	約物	文末記号	6
+
+# 177	mi kute e mije anu meli .
+1	mi	代名詞	主語開始	0
+2	kute	動詞	主述	1
+3	e	助詞	VO分離	2
+4	mije	名詞	目的語	3
+5	anu	接続詞	等位(左)	4
+6	meli	名詞	等位(右)	5
+7	.	約物	文末記号	6
+
+# 178	mi kepeken toki pona .
+1	mi	代名詞	主語開始	0
+2	kepeken	前置詞	主述	1
+3	toki	名詞	斜格語	2
+4	pona	形容詞	付加	3
+5	.	約物	文末記号	4
+
+# 179	ona li pana e ijo tan tomo ona .
+1	ona	代名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	pana	動詞	主述	2
+4	e	助詞	VO分離	3
+5	ijo	名詞	目的語	4
+6	tan	前置詞	前置詞句付加	3
+7	tomo	名詞	斜格語	6
+8	ona	代名詞	付加	7
+9	.	約物	文末記号	8
+
+# 180	kili li ike ala .
+1	kili	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	ike	形容詞	主述	2
+4	ala	副詞	付加	3
+5	.	約物	文末記号	4
+
+# 181	jan pali li kepeken ilo .
+1	jan	名詞	主語開始	0
+2	pali	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	kepeken	前置詞	主述	3
+5	ilo	名詞	斜格語	4
+6	.	約物	文末記号	5
+
+# 182	mi lon .
+1	mi	代名詞	主語開始	0
+2	lon	動詞	主述	1
+3	.	約物	文末記号	2
+
+# 183	jan toki li pana e sona tawa jan kute .
+1	jan	名詞	主語開始	0
+2	toki	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	pana	動詞	主述	3
+5	e	助詞	VO分離	4
+6	sona	名詞	目的語	5
+7	tawa	前置詞	前置詞句付加	4
+8	jan	名詞	斜格語	7
+9	kute	形容詞	付加	8
+10	.	約物	文末記号	9
+
+# 184	sina pali e ona tan seme ?
+1	sina	代名詞	主語開始	0
+2	pali	動詞	主述	1
+3	e	助詞	VO分離	2
+4	ona	代名詞	目的語	3
+5	tan	前置詞	前置詞句付加	2
+6	seme	代名詞	斜格語	5
+7	?	約物	文末記号	6
+
+# 185	jan Sulu li utala e jan ike .
+1	jan	名詞	主語開始	0
+2	Sulu	固有名詞	同格	1
+3	li	助詞	SV分離(直説法)	1
+4	utala	動詞	主述	3
+5	e	助詞	VO分離	4
+6	jan	名詞	目的語	5
+7	ike	形容詞	付加	6
+8	.	約物	文末記号	7
+
+# 186	sina tan ala tan ma Tosi ?
+1	sina	代名詞	主語開始	0
+2	tan	前置詞	主述	1
+3	ala	助詞	等位(左)	2
+4	tan	前置詞	等位(右)	3
+5	ma	名詞	斜格語	4
+6	Tosi	固有名詞	同格	5
+7	?	約物	文末記号	6
+
+# 187	sina tan ma Tosi anu seme ?
+1	sina	代名詞	主語開始	0
+2	tan	前置詞	主述	1
+3	ma	名詞	斜格語	2
+4	Tosi	固有名詞	同格	3
+5	anu	接続詞	等位(左)	3
+6	seme	代名詞	等位(右)	5
+7	?	約物	文末記号	6
+
+# 188	ma Sonko li suli mute .
+1	ma	名詞	主語開始	0
+2	Sonko	固有名詞	同格	1
+3	li	助詞	SV分離(直説法)	1
+4	suli	形容詞	主述	3
+5	mute	副詞	付加	4
+6	.	約物	文末記号	5
+
+# 189	telo Sisikaka li lon ma Pelu .
+1	telo	名詞	主語開始	0
+2	Sisikaka	固有名詞	同格	1
+3	li	助詞	SV分離(直説法)	1
+4	lon	前置詞	主述	3
+5	ma	名詞	斜格語	4
+6	Pelu	固有名詞	同格	5
+7	.	約物	文末記号	6
+
+# 190	kulupu Apika li kepeken toki mute .
+1	kulupu	名詞	主語開始	0
+2	Apika	固有名詞	同格	1
+3	li	助詞	SV分離(直説法)	1
+4	kepeken	前置詞	主述	3
+5	toki	名詞	斜格語	4
+6	mute	形容詞	付加	5
+7	.	約物	文末記号	6
+
+# 191	mi tawa ma Inli .
+1	mi	代名詞	主語開始	0
+2	tawa	前置詞	主述	1
+3	ma	名詞	斜格語	2
+4	Inli	固有名詞	同格	3
+5	.	約物	文末記号	4
+
+# 192	nimi sina li seme ?
+1	nimi	名詞	主語開始	0
+2	sina	代名詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	seme	代名詞	主述	3
+5	?	約物	文末記号	4
+
+# 193	jan Lisa li pilin pona .
+1	jan	名詞	主語開始	0
+2	Lisa	固有名詞	同格	1
+3	li	助詞	SV分離(直説法)	1
+4	pilin	動詞	主述	3
+5	pona	副詞	付加	4
+6	.	約物	文末記号	5
+
+# 194	a a a !
+1	a	感動詞	自立感動	0
+2	a	感動詞	付加感動	1
+3	a	感動詞	付加感動	2
+4	!	約物	文末記号	3
+
+# 195	mu !
+1	mu	感動詞	自立感動	0
+2	!	約物	文末記号	1
+
+# 196	o pana e ilo tawa mi .
+1	o	助詞	命令	0
+2	pana	動詞	述語開始	1
+3	e	助詞	VO分離	2
+4	ilo	名詞	目的語	3
+5	tawa	前置詞	前置詞句付加	2
+6	mi	代名詞	斜格語	5
+7	.	約物	文末記号	6
+
+# 197	o tawa tomo sina .
+1	o	助詞	命令	0
+2	tawa	前置詞	述語開始	1
+3	tomo	名詞	斜格語	2
+4	sina	代名詞	付加	3
+5	.	約物	文末記号	4
+
+# 198	ma Kanata li jo e kala mute a !
+1	ma	名詞	主語開始	0
+2	Kanata	固有名詞	同格	1
+3	li	助詞	SV分離(直説法)	1
+4	jo	動詞	主述	3
+5	e	助詞	VO分離	4
+6	kala	名詞	目的語	5
+7	mute	形容詞	付加	6
+8	a	感動詞	付加感動	6
+9	!	約物	文末記号	8
+
+# 199	jan Ali o wawa .
+1	jan	名詞	主語開始	0
+2	Ali	固有名詞	同格	1
+3	o	助詞	SV分離(命令法)	1
+4	wawa	形容詞	主述	3
+5	.	約物	文末記号	4
+
+# 200	mi pilin pona lon ma kasi ona .
+1	mi	代名詞	主語開始	0
+2	pilin	動詞	主述	1
+3	pona	副詞	付加	2
+4	lon	前置詞	前置詞句付加	2
+5	ma	名詞	斜格語	4
+6	kasi	名詞	付加	5
+7	ona	代名詞	付加	5
+8	.	約物	文末記号	7
+
+# 201	kulupu pi toki pona li pona e ijo mute .
+1	kulupu	名詞	主語開始	0
+2	pi	助詞	句分離	1
+3	toki	名詞	付加	2
+4	pona	形容詞	付加	3
+5	li	助詞	SV分離(直説法)	1
+6	pona	形容詞	主述	5
+7	e	助詞	VO分離	6
+8	ijo	名詞	目的語	7
+9	mute	形容詞	付加	8
+10	.	約物	文末記号	9
+
+# 202	ma utala ni li lili .
+1	ma	名詞	主語開始	0
+2	utala	形容詞	付加	1
+3	ni	限定詞	付加	1
+4	li	助詞	SV分離(直説法)	1
+5	lili	形容詞	主述	4
+6	.	約物	文末記号	5
+
+# 203	mije pi sijelo wawa li awen .
+1	mije	名詞	主語開始	0
+2	pi	助詞	句分離	1
+3	sijelo	名詞	付加	2
+4	wawa	形容詞	付加	3
+5	li	助詞	SV分離(直説法)	1
+6	awen	動詞	主述	5
+7	.	約物	文末記号	6
+
+# 204	suno li pana e pona tawa kasi .
+1	suno	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	pana	動詞	主述	2
+4	e	助詞	VO分離	3
+5	pona	名詞	目的語	4
+6	tawa	前置詞	前置詞句付加	3
+7	kasi	名詞	斜格語	6
+8	.	約物	文末記号	7
+
+# 205	o kepeken ala ilo ike .
+1	o	助詞	命令	0
+2	kepeken	前置詞	述語開始	1
+3	ala	副詞	付加	2
+4	ilo	名詞	斜格語	2
+5	ike	形容詞	付加	4
+6	.	約物	文末記号	5
+
+# 206	sina nanpa wan !
+1	sina	代名詞	主語開始	0
+2	nanpa	名詞	主述	1
+3	wan	数詞	序数	2
+4	!	約物	文末記号	3
+
+# 207	ni li tenpo suno nanpa tu tu .
+1	ni	限定詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	tenpo	名詞	主述	2
+4	suno	形容詞	付加	3
+5	nanpa	助詞	序数分離	3
+6	tu	数詞	序数	5
+7	tu	数詞	加算	6
+8	.	約物	文末記号	7
+
+# 208	mije lili tu li awen e kasi mute .
+1	mije	名詞	主語開始	0
+2	lili	形容詞	付加	1
+3	tu	数詞	付加	1
+4	li	助詞	SV分離(直説法)	1
+5	awen	動詞	主述	4
+6	e	助詞	VO分離	5
+7	kasi	名詞	目的語	6
+8	mute	形容詞	付加	7
+9	.	約物	文末記号	8
+
+# 209	mije lili tu li awen e kasi luka luka wan .
+1	mije	名詞	主語開始	0
+2	lili	形容詞	付加	1
+3	tu	数詞	付加	1
+4	li	助詞	SV分離(直説法)	1
+5	awen	動詞	主述	4
+6	e	助詞	VO分離	5
+7	kasi	名詞	目的語	6
+8	luka	数詞	付加	7
+9	luka	数詞	加算	8
+10	wan	数詞	加算	9
+11	.	約物	文末記号	10
+
+# 210	tomo sin pi jan utala lili li pona mute .
+1	tomo	名詞	主語開始	0
+2	sin	形容詞	付加	1
+3	pi	助詞	句分離	1
+4	jan	名詞	付加	3
+5	utala	形容詞	付加	4
+6	lili	形容詞	付加	4
+7	li	助詞	SV分離(直説法)	1
+8	pona	形容詞	主述	7
+9	mute	副詞	付加	8
+10	.	約物	文末記号	9
+
+# 211	ijo nanpa luka li seme ?
+1	ijo	名詞	主語開始	0
+2	nanpa	助詞	序数分離	1
+3	luka	数詞	序数	2
+4	li	助詞	SV分離(直説法)	1
+5	seme	代名詞	主述	4
+6	?	約物	文末記号	5
+
+# 212	mi sona e toki mute .
+1	mi	代名詞	主語開始	0
+2	sona	動詞	主述	1
+3	e	助詞	VO分離	2
+4	toki	名詞	目的語	3
+5	mute	形容詞	付加	4
+6	.	約物	文末記号	5
+
+# 213	mi sona e toki tu tu .
+1	mi	代名詞	主語開始	0
+2	sona	動詞	主述	1
+3	e	助詞	VO分離	2
+4	toki	名詞	目的語	3
+5	tu	数詞	付加	4
+6	tu	数詞	加算	5
+7	.	約物	文末記号	6
+
+# 214	jan ale li kute e ona .
+1	jan	名詞	主語開始	0
+2	ale	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	kute	動詞	主述	3
+5	e	助詞	VO分離	4
+6	ona	代名詞	目的語	5
+7	.	約物	文末記号	6
+
+# 215	kili li kama ike .
+1	kili	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	kama	助動詞	主述	2
+4	ike	形容詞	補完	3
+5	.	約物	文末記号	4
+
+# 216	mi wile lon ma mama mi .
+1	mi	代名詞	主語開始	0
+2	wile	助動詞	主述	1
+3	lon	前置詞	補完	2
+4	ma	名詞	斜格語	3
+5	mama	形容詞	付加	4
+6	mi	代名詞	付加	4
+7	.	約物	文末記号	6
+
+# 217	jan utala li sona pali e moku pona .
+1	jan	名詞	主語開始	0
+2	utala	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	sona	助動詞	主述	3
+5	pali	動詞	補完	4
+6	e	助詞	VO分離	5
+7	moku	名詞	目的語	6
+8	pona	形容詞	付加	7
+9	.	約物	文末記号	8
+
+# 218	nasin li kama lili .
+1	nasin	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	kama	助動詞	主述	2
+4	lili	形容詞	補完	3
+5	.	約物	文末記号	4
+
+# 219	kasi li kama jo e telo .
+1	kasi	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	kama	助動詞	主述	2
+4	jo	動詞	補完	3
+5	e	助詞	VO分離	4
+6	telo	名詞	目的語	5
+7	.	約物	文末記号	6
+
+# 220	sina ken awen e nimi sina .
+1	sina	代名詞	主語開始	0
+2	ken	助動詞	主述	1
+3	awen	動詞	補完	2
+4	e	助詞	VO分離	3
+5	nimi	名詞	目的語	4
+6	sina	代名詞	付加	5
+7	.	約物	文末記号	6
+
+# 221	sijelo meli li kama pona a !
+1	sijelo	名詞	主語開始	0
+2	meli	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	kama	助動詞	主述	3
+5	pona	形容詞	補完	4
+6	a	感動詞	付加感動	5
+7	!	約物	文末記号	6
+
+# 222	sijelo sina li laso , la ni li ike .
+1	sijelo	名詞	文脈開始	0
+2	sina	代名詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	laso	形容詞	主述	3
+5	,	約物	文中記号	4
+6	la	助詞	文脈分離	1
+7	ni	限定詞	主語開始	6
+8	li	助詞	SV分離(直説法)	7
+9	ike	形容詞	主述	8
+10	.	約物	文末記号	9
+
+# 223	tenpo ike la jan li wile toki tawa jan pona .
+1	tenpo	名詞	文脈開始	0
+2	ike	形容詞	付加	1
+3	la	助詞	文脈分離	1
+4	jan	名詞	主語開始	3
+5	li	助詞	SV分離(直説法)	4
+6	wile	助動詞	主述	5
+7	toki	動詞	補完	6
+8	tawa	前置詞	前置詞句付加	7
+9	jan	名詞	斜格語	8
+10	pona	形容詞	付加	9
+11	.	約物	文末記号	10
+
+# 224	kulupu la mi wawa .
+1	kulupu	名詞	文脈開始	0
+2	la	助詞	文脈分離	1
+3	mi	代名詞	主語開始	2
+4	wawa	形容詞	主述	3
+5	.	約物	文末記号	4
+
+# 225	mi pu , la mi pilin pona .
+1	mi	代名詞	文脈開始	0
+2	pu	動詞	主述	1
+3	,	約物	文中記号	2
+4	la	助詞	文脈分離	1
+5	mi	代名詞	主語開始	4
+6	pilin	動詞	主述	5
+7	pona	副詞	付加	6
+8	.	約物	文末記号	7
+
+# 226	tenpo seme la mama sina li kama ?
+1	tenpo	名詞	文脈開始	0
+2	seme	代名詞	付加	1
+3	la	助詞	文脈分離	1
+4	mama	名詞	主語開始	3
+5	sina	代名詞	付加	4
+6	li	助詞	SV分離(直説法)	4
+7	kama	動詞	主述	6
+8	?	約物	文末記号	7
+
+# 227	mama sina li kama lon tenpo seme ?
+1	mama	名詞	主語開始	0
+2	sina	代名詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	kama	動詞	主述	3
+5	lon	前置詞	前置詞句付加	4
+6	tenpo	名詞	斜格語	5
+7	seme	代名詞	付加	6
+8	?	約物	文末記号	7
+
+# 228	mi jo ala e soweli , la mi moku e kili .
+1	mi	代名詞	文脈開始	0
+2	jo	動詞	主述	1
+3	ala	副詞	付加	2
+4	e	助詞	VO分離	2
+5	soweli	名詞	目的語	4
+6	,	約物	文中記号	5
+7	la	助詞	文脈分離	1
+8	mi	代名詞	主語開始	7
+9	moku	動詞	主述	8
+10	e	助詞	VO分離	9
+11	kili	名詞	目的語	10
+12	.	約物	文末記号	11
+
+# 229	mi pilin ike tan utala suli .
+1	mi	代名詞	主語開始	0
+2	pilin	動詞	主述	1
+3	ike	副詞	付加	2
+4	tan	前置詞	前置詞句付加	2
+5	utala	名詞	斜格語	4
+6	suli	形容詞	付加	5
+7	.	約物	文末記号	6
+
+# 230	telo li kama tan sewi .
+1	telo	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	kama	動詞	主述	2
+4	tan	前置詞	前置詞句付加	3
+5	sewi	名詞	斜格語	4
+6	.	約物	文末記号	5
+
+# 231	lipu li lon noka soweli .
+1	lipu	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	lon	前置詞	主述	2
+4	noka	名詞	斜格語	3
+5	soweli	名詞	付加	4
+6	.	約物	文末記号	5
+
+# 232	sina pana e ilo tenpo loje lon poka seme ?
+1	sina	代名詞	主語開始	0
+2	pana	動詞	主述	1
+3	e	助詞	VO分離	2
+4	ilo	名詞	目的語	3
+5	tenpo	形容詞	付加	4
+6	loje	形容詞	付加	4
+7	lon	前置詞	前置詞句付加	2
+8	poka	名詞	斜格語	7
+9	seme	代名詞	付加	8
+10	?	約物	文末記号	9
+
+# 233	mi lukin e meli pimeja lon sinpin tomo .
+1	mi	代名詞	主語開始	0
+2	lukin	動詞	主述	1
+3	e	助詞	VO分離	2
+4	meli	名詞	目的語	3
+5	pimeja	形容詞	付加	4
+6	lon	前置詞	前置詞句付加	2
+7	sinpin	名詞	斜格語	6
+8	tomo	名詞	付加	7
+9	.	約物	文末記号	8
+
+# 234	o awen e monsi sina .
+1	o	助詞	命令	0
+2	awen	動詞	述語開始	1
+3	e	助詞	VO分離	2
+4	monsi	名詞	目的語	3
+5	sina	代名詞	付加	4
+6	.	約物	文末記号	5
+
+# 235	suno li lon poka pimeja .
+1	suno	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	lon	前置詞	主述	2
+4	poka	名詞	斜格語	3
+5	pimeja	名詞	付加	4
+6	.	約物	文末記号	5
+
+# 236	mi pona !
+1	mi	代名詞	主語開始	0
+2	pona	形容詞	主述	1
+3	!	約物	文末記号	2
+
+# 237	soweli ike !
+1	soweli	名詞	述語開始	0
+2	ike	形容詞	付加	1
+3	!	約物	文末記号	2
+
+# 238	moku !
+1	moku	名詞	述語開始	0
+2	!	約物	文末記号	1
+
+# 239	moku li pona !
+1	moku	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	pona	形容詞	主述	2
+4	!	約物	文末記号	3
+
+# 240	ike !
+1	ike	感動詞	自立感動	0
+2	!	約物	文末記号	1
+
+# 241	ale li jo e tenpo .
+1	ale	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	jo	動詞	主述	2
+4	e	助詞	VO分離	3
+5	tenpo	名詞	目的語	4
+6	.	約物	文末記号	5
+
+# 242	ale li pona .
+1	ale	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	pona	形容詞	主述	2
+4	.	約物	文末記号	3
+
+# 243	toki pona li toki pona .
+1	toki	名詞	主語開始	0
+2	pona	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	toki	名詞	主述	3
+5	pona	形容詞	付加	4
+6	.	約物	文末記号	5
+
+# 244	ante li kama .
+1	ante	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	kama	動詞	主述	2
+4	.	約物	文末記号	3
+
+# 245	ike li kama .
+1	ike	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	kama	動詞	主述	2
+4	.	約物	文末記号	3
+
+# 246	jan li suli mute . mani li suli lili .
+1	jan	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	suli	形容詞	主述	2
+4	mute	副詞	付加	3
+5	.	約物	文末記号	4
+6	mani	名詞	主語開始	5
+7	li	助詞	SV分離(直説法)	6
+8	suli	形容詞	主述	7
+9	lili	副詞	付加	8
+10	.	約物	文末記号	9
+
+# 247	jan sona li jan nasa .
+1	jan	名詞	主語開始	0
+2	sona	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	jan	名詞	主述	3
+5	nasa	形容詞	付加	4
+6	.	約物	文末記号	5
+
+# 248	lupa meli li mama pi ijo ale .
+1	lupa	名詞	主語開始	0
+2	meli	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	mama	名詞	主述	3
+5	pi	助詞	句分離	4
+6	ijo	名詞	付加	5
+7	ale	形容詞	付加	6
+8	.	約物	文末記号	7
+
+# 249	mi pona e ale mi , la mi pona e mi .
+1	mi	代名詞	文脈開始	0
+2	pona	動詞	主述	1
+3	e	助詞	VO分離	2
+4	ale	名詞	目的語	3
+5	mi	代名詞	付加	4
+6	,	約物	文中記号	5
+7	la	助詞	文脈分離	1
+8	mi	代名詞	主語開始	7
+9	pona	動詞	主述	8
+10	e	助詞	VO分離	9
+11	mi	代名詞	目的語	10
+12	.	約物	文末記号	11
+
+# 250	nasin pona li mute .
+1	nasin	名詞	主語開始	0
+2	pona	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	mute	形容詞	主述	3
+5	.	約物	文末記号	4
+
+# 251	o olin e jan poka .
+1	o	助詞	命令	0
+2	olin	動詞	主述	1
+3	e	助詞	VO分離	2
+4	jan	名詞	目的語	3
+5	poka	形容詞	付加	4
+6	.	約物	文末記号	5
+
+# 252	o sona e sina !
+1	o	助詞	命令	0
+2	sona	動詞	主述	1
+3	e	助詞	VO分離	2
+4	sina	代名詞	目的語	3
+5	!	約物	文末記号	4
+
+# 253	pali li pana e sona .
+1	pali	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	pana	動詞	主述	2
+4	e	助詞	VO分離	3
+5	sona	名詞	目的語	4
+6	.	約物	文末記号	5
+
+# 254	pilin pona li pana e sijelo pona .
+1	pilin	名詞	主語開始	0
+2	pona	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	pana	動詞	主述	3
+5	e	助詞	VO分離	4
+6	sijelo	名詞	目的語	5
+7	pona	形容詞	付加	6
+8	.	約物	文末記号	7
+
+# 255	sina pana e ike , la sina kama jo e ike .
+1	sina	代名詞	文脈開始	0
+2	pana	動詞	主述	1
+3	e	助詞	VO分離	2
+4	ike	名詞	目的語	3
+5	,	約物	文中記号	4
+6	la	助詞	文脈分離	1
+7	sina	代名詞	主語開始	6
+8	kama	助動詞	主述	7
+9	jo	動詞	補完	8
+10	e	助詞	VO分離	9
+11	ike	名詞	目的語	10
+12	.	約物	文末記号	11
+
+# 256	wawa li lon insa .
+1	wawa	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	lon	前置詞	主述	2
+4	insa	名詞	斜格語	3
+5	.	約物	文末記号	4
+
+# 257	weka lili li pona tawa lawa .
+1	weka	名詞	主語開始	0
+2	lili	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	pona	形容詞	主述	3
+5	tawa	前置詞	前置詞句付加	4
+6	lawa	名詞	斜格語	5
+7	.	約物	文末記号	6
+
+# 258	wile sona li mute e sona .
+1	wile	名詞	主語開始	0
+2	sona	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	mute	動詞	主述	3
+5	e	助詞	VO分離	4
+6	sona	名詞	目的語	5
+7	.	約物	文末記号	6
+
+# 259	jan lili li sona ala e ike .
+1	jan	名詞	主語開始	0
+2	lili	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	sona	動詞	主述	3
+5	ala	副詞	付加	4
+6	e	助詞	VO分離	4
+7	ike	名詞	目的語	6
+8	.	約物	文末記号	7
+
+# 260	meli li nasa e mije .
+1	meli	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	nasa	動詞	主述	2
+4	e	助詞	VO分離	3
+5	mije	名詞	目的語	4
+6	.	約物	文末記号	5
+
+# 261	mi weka e ike jan , la mi weka e ike mi .
+1	mi	代名詞	文脈開始	0
+2	weka	動詞	主述	1
+3	e	助詞	VO分離	2
+4	ike	名詞	目的語	3
+5	jan	形容詞	付加	4
+6	,	約物	文中記号	5
+7	la	助詞	文脈分離	1
+8	mi	代名詞	主語開始	7
+9	weka	動詞	主述	8
+10	e	助詞	VO分離	9
+11	ike	名詞	目的語	10
+12	mi	代名詞	付加	11
+13	.	約物	文末記号	12
+
+# 262	nasin ante li pona tawa jan ante .
+1	nasin	名詞	主語開始	0
+2	ante	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	pona	形容詞	主述	3
+5	tawa	前置詞	前置詞句付加	4
+6	jan	名詞	斜格語	5
+7	ante	形容詞	付加	6
+8	.	約物	文末記号	7
+
+# 263	lape li pona .
+1	lape	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	pona	形容詞	主述	2
+4	.	約物	文末記号	3
+
+# 264	toki li pona .
+1	toki	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	pona	形容詞	主述	2
+4	.	約物	文末記号	3
+
+# 265	o pana e pona tawa ma .
+1	o	助詞	命令	0
+2	pana	動詞	述語開始	1
+3	e	助詞	VO分離	2
+4	pona	名詞	目的語	3
+5	tawa	前置詞	前置詞句付加	2
+6	ma	名詞	斜格語	5
+7	.	約物	文末記号	6
+
+# 266	utala li ike .
+1	utala	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	ike	形容詞	主述	2
+4	.	約物	文末記号	3
+
+# 267	o weka e nimi ike .
+1	o	助詞	命令	0
+2	weka	動詞	述語開始	1
+3	e	助詞	VO分離	2
+4	nimi	名詞	目的語	3
+5	ike	形容詞	付加	4
+6	.	約物	文末記号	5
+
+# 268	sina sona e toki wan taso , la sina sona ala e toki ni .
+1	sina	代名詞	文脈開始	0
+2	sona	動詞	主述	1
+3	e	助詞	VO分離	2
+4	toki	名詞	目的語	3
+5	wan	数詞	付加	4
+6	taso	形容詞	付加	4
+7	,	約物	文中記号	6
+8	la	助詞	文脈分離	1
+9	sina	代名詞	主語開始	8
+10	sona	動詞	主述	9
+11	ala	副詞	付加	10
+12	e	助詞	VO分離	10
+13	toki	名詞	目的語	12
+14	ni	限定詞	付加	13
+15	.	約物	文末記号	14
+
+# 269	toki sina en pali sina li sama , la sina pilin pona .
+1	toki	名詞	文脈開始	0
+2	sina	代名詞	付加	1
+3	en	接続詞	等位(左)	1
+4	pali	名詞	等位(右)	3
+5	sina	代名詞	付加	4
+6	li	助詞	SV分離(直説法)	1
+7	sama	形容詞	主述	6
+8	,	約物	文中記号	7
+9	la	助詞	文脈分離	1
+10	sina	代名詞	主語開始	9
+11	pilin	動詞	主述	10
+12	pona	副詞	付加	11
+13	.	約物	文末記号	12
+
+# 270	sewi li lon ala , li lon ale .
+1	sewi	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	lon	動詞	主述	2
+4	ala	副詞	付加	3
+5	,	約物	文中記号	4
+6	li	助詞	SV分離(直説法)	1
+7	lon	動詞	主述	6
+8	ale	副詞	付加	7
+9	.	約物	文末記号	8
+
+# 271	sina wile ante e ale , la o ante e sina .
+1	sina	代名詞	文脈開始	0
+2	wile	助動詞	主述	1
+3	ante	動詞	補完	2
+4	e	助詞	VO分離	3
+5	ale	名詞	目的語	4
+6	,	約物	文中記号	5
+7	la	助詞	文脈分離	1
+8	o	助詞	命令	7
+9	ante	動詞	述語開始	8
+10	e	助詞	VO分離	9
+11	sina	代名詞	目的語	10
+12	.	約物	文末記号	11
+
+# 272	wile sona nanpa wan li ni : ale li pona anu ike ?
+1	wile	名詞	主語開始	0
+2	sona	形容詞	付加	1
+3	nanpa	助詞	序数分離	1
+4	wan	数詞	序数	3
+5	li	助詞	SV分離(直説法)	1
+6	ni	限定詞	主述	5
+7	:	約物	文末記号	6
+8	ale	名詞	主語開始	7
+9	li	助詞	SV分離(直説法)	8
+10	pona	形容詞	主述	9
+11	anu	接続詞	等位(左)	10
+12	ike	形容詞	等位(右)	11
+13	?	約物	文末記号	12
+
+# 273	sona pona li ni : o weka e ike .
+1	sona	名詞	主語開始	0
+2	pona	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	ni	限定詞	主述	3
+5	:	約物	文末記号	4
+6	o	助詞	命令	5
+7	weka	動詞	述語開始	6
+8	e	助詞	VO分離	7
+9	ike	名詞	目的語	8
+10	.	約物	文末記号	9
+
+# 274	nasin pona li pona nanpa wan .
+1	s	名詞	主語開始	0
+2	pona	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	pona	形容詞	主述	3
+5	nanpa	助詞	序数分離	4
+6	wan	数詞	序数	5
+7	.	約物	文末記号	6
+
+# 275	sina ken ala toki e ijo lon toki pona , la sina sona pona ala e ona .
+1	sina	代名詞	文脈開始	0
+2	ken	助動詞	主述	1
+3	ala	副詞	付加	2
+4	toki	動詞	補完	2
+5	e	助詞	VO分離	4
+6	ijo	名詞	目的語	5
+7	lon	前置詞	前置詞句付加	4
+8	toki	名詞	斜格語	7
+9	pona	形容詞	付加	8
+10	,	約物	文中記号	9
+11	la	助詞	文脈分離	1
+12	sina	代名詞	主語開始	11
+13	sona	動詞	述語開始	12
+14	pona	副詞	付加	13
+15	ala	副詞	付加	13
+16	e	助詞	VO分離	13
+17	ona	代名詞	目的語	16
+18	.	約物	文末記号	17
+
+# 276	kulupu Isale o kute e ni .
+1	kulupu	名詞	主語開始	0
+2	Isale	固有名詞	同格	1
+3	o	助詞	SV分離(命令法)	1
+4	kute	動詞	述語開始	3
+5	e	助詞	VO分離	4
+6	ni	限定詞	目的語	5
+7	.	約物	文末記号	6
+
+# 277	sewi li sewi mi .
+1	sewi	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	sewi	名詞	主述	2
+4	mi	代名詞	付加	3
+5	.	約物	文末記号	4
+
+# 278	sewi li wan .
+1	sewi	名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	wan	名詞	主述	2
+4	.	約物	文末記号	3
+
+# 279	jan Isa li tawa lili , li kama anpa , li toki e ni tawa sewi : " mama mi o ! ken la o weka e pilin ike mi . wile mi o lon ala . taso wile sina o lon . "
+1	jan	名詞	主語開始	0
+2	Isa	固有名詞	同格	1
+3	li	助詞	SV分離(直説法)	1
+4	tawa	動詞	主述	3
+5	lili	副詞	付加	4
+6	,	約物	文中記号	5
+7	li	助詞	SV分離(直説法)	1
+8	kama	助動詞	主述	7
+9	anpa	形容詞	補完	8
+10	,	約物	文中記号	9
+11	li	助詞	SV分離(直説法)	1
+12	toki	動詞	主述	11
+13	e	助詞	VO分離	12
+14	ni	限定詞	目的語	13
+15	tawa	前置詞	前置詞句付加	12
+16	sewi	名詞	斜格語	15
+17	:	約物	文末記号	16
+18	"	約物	文頭記号	17
+19	mama	名詞	呼格開始	18
+20	mi	代名詞	付加	19
+21	o	助詞	呼格終了	19
+22	!	約物	文末記号	21
+23	ken	副詞	文脈開始	22
+24	la	助詞	文脈分離	23
+25	o	助詞	命令	24
+26	weka	動詞	述語開始	25
+27	e	助詞	VO分離	26
+28	pilin	名詞	目的語	27
+29	ike	形容詞	付加	28
+30	mi	代名詞	付加	28
+31	.	約物	文末記号	30
+32	wile	名詞	主語開始	31
+33	mi	代名詞	付加	32
+34	o	助詞	SV分離(命令法)	32
+35	lon	動詞	主述	34
+36	ala	副詞	付加	35
+37	.	約物	文末記号	36
+38	taso	接続詞	等位	37
+39	wile	名詞	主語開始	38
+40	sina	代名詞	付加	39
+41	o	助詞	SV分離(命令法)	39
+42	lon	動詞	主述	41
+43	.	約物	文末記号	42
+44	"	約物	文末記号	43
+
+# 280	jan lawa li wile sona e ni tan jan Isa : " jan sona pona o ! mi pali e seme , la mi kama lon tenpo sewi ? "
+1	jan	名詞	主語開始	0
+2	lawa	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	wile	助動詞	主述	3
+5	sona	動詞	補完	4
+6	e	助詞	VO分離	5
+7	ni	限定詞	目的語	6
+8	tan	前置詞	前置詞句付加	5
+9	jan	名詞	斜格語	8
+10	Isa	固有名詞	同格	9
+11	:	約物	文末記号	10
+12	"	約物	文頭記号	11
+13	jan	名詞	呼格開始	12
+14	sona	形容詞	付加	13
+15	pona	形容詞	付加	13
+16	o	助詞	呼格終了	13
+17	!	約物	文末記号	16
+18	mi	代名詞	文脈開始	17
+19	pali	動詞	主述	18
+20	e	助詞	VO分離	19
+21	seme	代名詞	目的語	20
+22	,	約物	文中記号	21
+23	la	助詞	文脈分離	18
+24	mi	代名詞	主語開始	23
+25	kama	助動詞	主述	24
+26	lon	前置詞	補完	25
+27	tenpo	名詞	斜格語	26
+28	sewi	形容詞	付加	27
+29	?	約物	文末記号	28
+30	"	約物	文末記号	29
+
+# 281	jan Isa li toki e ni : " tan seme la sina pana e nimi pona tawa mi ? jan ala li pona . sewi wan taso li pona . "
+1	jan	名詞	主語開始	0
+2	Isa	固有名詞	同格	1
+3	li	助詞	SV分離(直説法)	1
+4	toki	動詞	主述	3
+5	e	助詞	VO分離	4
+6	ni	限定詞	目的語	5
+7	:	約物	文末記号	6
+8	"	約物	文頭記号	7
+9	tan	前置詞	文脈開始	8
+10	seme	代名詞	斜格語	9
+11	la	助詞	文脈分離	9
+12	sina	代名詞	主語開始	11
+13	pana	動詞	主述	12
+14	e	助詞	VO分離	13
+15	nimi	名詞	目的語	14
+16	pona	形容詞	付加	15
+17	tawa	前置詞	前置詞句付加	13
+18	mi	代名詞	斜格語	17
+19	?	約物	文末記号	18
+20	jan	名詞	主語開始	19
+21	ala	数詞	付加	20
+22	li	助詞	SV分離(直説法)	20
+23	pona	形容詞	主述	22
+24	.	約物	文末記号	23
+25	sewi	名詞	主語開始	24
+26	wan	数詞	付加	25
+27	taso	形容詞	付加	25
+28	li	助詞	SV分離(直説法)	25
+29	pona	形容詞	主述	28
+30	.	約物	文末記号	29
+31	"	約物	文末記号	30
+
+# 282	o toki e ni : " sewi li wan . sewi li wawa ale . ona li mama ala , li jo ala e mama . ijo ala li sama ona . "
+1	o	助詞	命令	0
+2	toki	動詞	述語開始	1
+3	e	助詞	VO分離	2
+4	ni	限定詞	目的語	3
+5	:	約物	文末記号	4
+6	"	約物	文頭記号	5
+7	sewi	名詞	主語開始	6
+8	li	助詞	SV分離(直説法)	7
+9	wan	数詞	主述	8
+10	.	約物	文末記号	9
+11	sewi	名詞	主語開始	10
+12	li	助詞	SV分離(直説法)	11
+13	wawa	形容詞	主述	12
+14	ale	副詞	付加	13
+15	.	約物	文末記号	14
+16	ona	代名詞	主語開始	15
+17	li	助詞	SV分離(直説法)	16
+18	mama	名詞	主述	17
+19	ala	形容詞	付加	18
+20	,	約物	文中記号	19
+21	li	助詞	SV分離(直説法)	16
+22	jo	動詞	主述	21
+23	ala	副詞	付加	22
+24	e	助詞	VO分離	22
+25	mama	名詞	目的語	24
+26	.	約物	文末記号	25
+27	ijo	名詞	主語開始	26
+28	ala	数詞	付加	27
+29	li	助詞	SV分離(直説法)	27
+30	sama	前置詞	主述	29
+31	ona	代名詞	斜格語	30
+32	.	約物	文末記号	31
+33	"	約物	文末記号	32
+
+# 283	o pilin ala e ni : sewi li pana e nasin lawa taso . a ! sewi li open e telo suwi kepeken luka wawa . ilo sitelen pi toki sewi li wawa e ni . jan sona o kepeken sona a !
+1	o	助詞	命令	0
+2	pilin	動詞	主述	1
+3	ala	副詞	付加	2
+4	e	助詞	VO分離	2
+5	ni	限定詞	目的語	4
+6	:	約物	文末記号	5
+7	sewi	名詞	主語開始	6
+8	li	助詞	SV分離(直説法)	7
+9	pana	動詞	主述	8
+10	e	助詞	VO分離	9
+11	nasin	名詞	目的語	10
+12	lawa	形容詞	付加	11
+13	taso	形容詞	付加	11
+14	.	約物	文末記号	13
+15	a	感動詞	自立感動	14
+16	!	約物	文末記号	15
+17	sewi	名詞	主語開始	16
+18	li	助詞	SV分離(直説法)	17
+19	open	動詞	主述	18
+20	e	助詞	VO分離	19
+21	telo	名詞	目的語	20
+22	suwi	形容詞	付加	21
+23	kepeken	前置詞	前置詞句付加	19
+24	luka	名詞	斜格語	23
+25	wawa	形容詞	付加	24
+26	.	約物	文末記号	25
+27	ilo	名詞	主語開始	26
+28	sitelen	形容詞	付加	27
+29	pi	助詞	句分離	27
+30	toki	名詞	付加	29
+31	sewi	形容詞	付加	30
+32	li	助詞	SV分離(直説法)	27
+33	wawa	動詞	主述	32
+34	e	助詞	VO分離	33
+35	ni	限定詞	目的語	34
+36	.	約物	文末記号	35
+37	jan	名詞	主語開始	36
+38	sona	形容詞	付加	37
+39	o	助詞	SV分離(命令法)	37
+40	kepeken	前置詞	主述	39
+41	sona	名詞	斜格語	40
+42	a	感動詞	付加感動	41
+43	!	約物	文末記号	42
+
+# 284	sewi mi o ! mi toki wawa e ni : sina pali e mi tawa seme ? mi o sona e sina . mi o olin e sina .
+1	sewi	名詞	呼格開始	0
+2	mi	代名詞	付加	1
+3	o	助詞	呼格終了	1
+4	!	約物	文末記号	3
+5	mi	代名詞	主語開始	4
+6	toki	動詞	主述	5
+7	wawa	副詞	付加	6
+8	e	助詞	VO分離	6
+9	ni	限定詞	目的語	8
+10	:	約物	文末記号	9
+11	sina	代名詞	主語開始	10
+12	pali	動詞	主述	11
+13	e	助詞	VO分離	12
+14	mi	代名詞	目的語	13
+15	tawa	前置詞	前置詞句付加	12
+16	seme	代名詞	斜格語	15
+17	?	約物	文末記号	16
+18	mi	代名詞	主語開始	17
+19	o	助詞	SV分離(命令法)	18
+20	sona	動詞	主述	19
+21	e	助詞	VO分離	20
+22	sina	代名詞	目的語	21
+23	.	約物	文末記号	22
+24	mi	代名詞	主語開始	23
+25	o	助詞	SV分離(命令法)	24
+26	olin	動詞	主述	25
+27	e	助詞	VO分離	26
+28	sina	代名詞	目的語	27
+29	.	約物	文末記号	28
+
+# 285	tenpo ni la mi sona e ni : mi anpa . sina wawa . mi jo lili . sina jo mute .
+1	tenpo	名詞	文脈開始	0
+2	ni	限定詞	付加	1
+3	la	助詞	文脈分離	1
+4	mi	代名詞	主語開始	3
+5	sona	動詞	主述	4
+6	e	助詞	VO分離	5
+7	ni	限定詞	目的語	6
+8	:	約物	文末記号	7
+9	mi	代名詞	主語開始	8
+10	anpa	形容詞	主述	9
+11	.	約物	文末記号	10
+12	sina	代名詞	主語開始	11
+13	wawa	形容詞	主述	12
+14	.	約物	文末記号	13
+15	mi	代名詞	主語開始	14
+16	jo	動詞	主述	15
+17	lili	副詞	付加	16
+18	.	約物	文末記号	17
+19	sina	代名詞	主語開始	18
+20	jo	動詞	主述	19
+21	mute	副詞	付加	20
+22	.	約物	文末記号	21
+
+# 286	sina sewi wan . sina awen e ale . lon la sina lon .
+1	sina	代名詞	主語開始	0
+2	sewi	名詞	主述	1
+3	wan	数詞	付加	2
+4	.	約物	文末記号	3
+5	sina	代名詞	主語開始	4
+6	awen	動詞	主述	5
+7	e	助詞	VO分離	6
+8	ale	名詞	目的語	7
+9	.	約物	文末記号	8
+10	lon	副詞	文脈開始	9
+11	la	助詞	文脈分離	10
+12	sina	代名詞	主語開始	11
+13	lon	動詞	主述	12
+14	.	約物	文末記号	13
+
+# 287	ma Kanata li suli
+1	ma	名詞	主語開始	0
+2	Kanata	固有名詞	同格	1
+3	li	助詞	SV分離(直説法)	1
+4	suli	形容詞	主述	3
+
+# 288	pona tawa sina
+1	pona	形容詞	述語開始	0
+2	tawa	前置詞	前置詞句付加	1
+3	sina	代名詞	斜格語	2
+
+# 289	mi tawa !
+1	mi	代名詞	主語開始	0
+2	tawa	動詞	主述	1
+3	!	約物	文末記号	2
+
+# 290	tawa pona !
+1	tawa	動詞	述語開始	0
+2	pona	副詞	付加	1
+3	!	約物	文末記号	2
+
+# 291	lape pona !
+1	lape	動詞	述語開始	0
+2	pona	副詞	付加	1
+3	!	約物	文末記号	2
+
+# 292	kama pona !
+1	kama	動詞	述語開始	0
+2	pona	副詞	付加	1
+3	!	約物	文末記号	2
+
+# 293	moku pona !
+1	moku	動詞	述語開始	0
+2	pona	副詞	付加	1
+3	!	約物	文末記号	2
+
+# 294	seme li sin ?
+1	seme	代名詞	主語開始	0
+2	li	助詞	SV分離(直説法)	1
+3	sin	形容詞	主述	2
+4	?	約物	文末記号	3
+
+# 295	sina pilin seme ?
+1	sina	代名詞	主語開始	0
+2	pilin	動詞	主述	1
+3	seme	副詞	付加	2
+4	?	約物	文末記号	3
+
+# 296	a a a !
+1	a	感動詞	自立感動	0
+2	a	感動詞	付加感動	1
+3	a	感動詞	付加感動	2
+4	!	約物	文末記号	3
+
+# 297	mi kama sona e toki pona .
+1	mi	代名詞	主語開始	0
+2	kama	助動詞	主述	1
+3	sona	動詞	補完	2
+4	e	助詞	VO分離	3
+5	toki	名詞	目的語	4
+6	pona	形容詞	付加	5
+7	.	約物	文末記号	6
+
+# 298	sina pona !
+1	sina	代名詞	主語開始	0
+2	pona	形容詞	主述	1
+3	!	約物	文末記号	2
+
+# 299	mi olin e sina .
+1	mi	代名詞	主語開始	0
+2	olin	動詞	主述	1
+3	e	助詞	VO分離	2
+4	sina	代名詞	目的語	3
+5	.	約物	文末記号	4
+
+# 300	tomo telo li lon seme ?
+1	tomo	名詞	主語開始	0
+2	telo	形容詞	付加	1
+3	li	助詞	SV分離(直説法)	1
+4	lon	前置詞	主述	3
+5	seme	代名詞	斜格語	4
+6	?	約物	文末記号	5
+
